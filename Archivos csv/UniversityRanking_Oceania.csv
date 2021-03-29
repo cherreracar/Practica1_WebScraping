@@ -1,0 +1,273 @@
+Name,Web,Regional_ranking,World_ranking,Impact_score,Openness_score,Excellence_core
+University of Melbourne,https://www.unimelb.edu.au/,1,17,100,22,23
+University of New South Wales,https://www.unsw.edu.au/,2,19,83,27,37
+University of Sydney,https://www.sydney.edu.au/,3,22,141,19,20
+Australian National University,https://www.anu.edu.au/,4,38,78,28,145
+University of Western Australia,https://www.uwa.edu.au/,5,81,224,41,128
+University of Auckland,https://www.auckland.ac.nz/,6,105,205,77,173
+Curtin University of Technology,http://www.curtin.edu.au/,7,147,321,119,197
+Queensland University of Technology,https://www.qut.edu.au/,8,151,268,115,228
+University of Technology Sydney,https://www.uts.edu.au/,9,156,328,145,202
+Macquarie University,https://www.mq.edu.au/,10,163,265,113,257
+Deakin University,https://www.deakin.edu.au/,11,179,374,152,211
+RMIT University,https://www.rmit.edu.au/,12,183,258,195,279
+Griffith University,https://www.griffith.edu.au/,13,192,379,123,235
+University of Wollongong,https://www.uow.edu.au/,14,208,350,162,266
+University of Queensland,https://www.uq.edu.au/,15,250,102,5963,33
+University of Otago,https://www.otago.ac.nz/,16,252,415,155,347
+University of Newcastle,https://www.newcastle.edu.au/,17,252,485,156,306
+La Trobe University,https://www.latrobe.edu.au/,18,282,455,187,391
+Monash University,https://www.monash.edu/,19,288,140,5963,34
+University of Tasmania,https://www.utas.edu.au/,20,291,530,158,375
+University of South Australia,https://www.unisa.edu.au/,21,308,509,234,407
+Flinders University,https://www.flinders.edu.au/,22,343,534,233,490
+James Cook University,https://www.jcu.edu.au/,23,358,627,226,479
+University of Canterbury,https://www.canterbury.ac.nz/,24,382,444,363,606
+University of Adelaide,https://www.adelaide.edu.au/,25,388,157,5963,121
+Massey University,https://www.massey.ac.nz/,26,440,548,320,651
+Murdoch University,https://www.murdoch.edu.au/,27,530,720,374,748
+University of Waikato,https://www.waikato.ac.nz/,28,564,458,450,997
+Charles Sturt University,https://www.csu.edu.au/,29,625,668,522,920
+Victoria University,https://www.vu.edu.au/,30,625,814,585,811
+Auckland University of Technology,https://www.aut.ac.nz/,31,642,882,472,831
+University of New England Australia,https://www.une.edu.au/,32,654,758,490,945
+Australian Catholic University,https://www.acu.edu.au/,33,668,1315,514,682
+University of Canberra,https://www.canberra.edu.au/,34,702,890,551,955
+University of Southern Queensland,https://www.usq.edu.au/,35,702,948,645,893
+Southern Cross University,https://www.scu.edu.au/,36,841,983,605,1202
+Western Sydney University,https://www.westernsydney.edu.au/,37,864,557,5963,426
+Central Queensland University CQUniversity,https://www.cqu.edu.au/,38,900,1313,634,1144
+University of the Sunshine Coast,https://www.usc.edu.au/,39,948,1909,612,1052
+Charles Darwin University,https://www.cdu.edu.au/,40,960,1481,1043,1108
+Swinburne University of Technology,https://www.swinburne.edu.au/,41,969,856,5963,416
+Federation University Australia,https://federation.edu.au/,42,1081,1739,856,1306
+Bond University,https://bond.edu.au/,43,1113,1305,1168,1483
+Victoria University of Wellington,https://www.wgtn.ac.nz/,44,1168,748,5963,686
+Edith Cowan University,https://www.ecu.edu.au/,45,1188,773,5963,708
+Lincoln University Canterbury,https://www.lincoln.ac.nz/,46,1276,2040,1021,1545
+University of the South Pacific,https://www.usp.ac.fj/,47,2028,3173,1817,2546
+Menzies School of Health Research,https://www.menzies.edu.au/,48,2326,8383,1889,1732
+University of Notre Dame Australia,https://www.notredame.edu.au/,49,2505,3522,5963,1587
+Unitec New Zealand,https://www.unitec.ac.nz/,50,2611,2953,3073,3431
+University of Guam,https://www.uog.edu/,51,3394,3484,5113,3816
+Australian Maritime College,https://www.amc.edu.au/,52,3681,6234,5963,2638
+Otago Polytechnic,https://www.op.ac.nz/,53,3737,3029,3986,4934
+Fiji National University,https://www.fnu.ac.fj/,54,3903,10339,2823,3779
+Eastern Institute of Technology Hawke’s Bay and Tairāwhiti,https://www.eit.ac.nz/,55,4023,5068,3867,4781
+Torrens University Australia,https://www.torrens.edu.au/,56,4461,4521,5963,4517
+Université de la Polynésie Française,http://www.upf.pf/,57,4662,7794,4707,4883
+Waikato Institute of Technology,https://www.wintec.ac.nz/,58,4679,4932,5262,5201
+Manukau Institute of Technology,https://www.manukau.ac.nz/,59,4710,5206,5963,4719
+University of Papua New Guinea,https://www.upng.ac.pg/,60,4980,10546,5963,4092
+Open Colleges,https://www.opencolleges.edu.au/,61,5532,1071,5963,6683
+(3) Melbourne Business School,https://mbs.edu/,62,5598,4849,2605,6683
+Papua New Guinea University of Technology,https://www.unitech.ac.pg/,63,5757,11291,5963,5006
+Universal College of Learning,http://www.ucol.ac.nz/,64,5826,6590,5963,5655
+Open Polytechnic of New Zealand,http://www.openpolytechnic.ac.nz/,65,5881,6841,5963,5655
+Blue Mountains (Australian) International Hotel Management School,https://www.bluemountains.edu.au/,66,5922,9625,5963,5342
+TAFE NSW Degrees,https://www.tafensw.edu.au/,67,5941,1798,5963,6683
+Ara Institute of Canterbury (formerly Christchurch Polytechnic Institute of Technology),https://www.ara.ac.nz/,68,6006,6351,5963,5807
+Auckland Institute of Studies,https://www.ais.ac.nz/,69,6127,7987,5963,5655
+Australian Defence Force Academy at UNSW,http://www.unsw.adfa.edu.au/,70,6558,2856,5963,6683
+Divine Word University,https://www.dwu.ac.pg/,71,7407,11816,5963,5655
+TAFE Queensland,https://tafeqld.edu.au/,72,7463,4264,5963,6683
+College of Micronesia FSM,http://www.comfsm.fm/,73,7471,7045,5963,6245
+Nelson Marlborough Institute of Technology,https://www.nmit.ac.nz/,74,7609,4453,5963,6683
+Ridley College,https://www.ridley.edu.au/,75,7984,4954,5963,6683
+Melbourne Institute of Technology,https://www.mit.edu.au/,76,7991,8340,4913,6683
+Adelaide Institute of TAFE,https://www.tafesa.edu.au/,77,8017,4994,5963,6683
+American Samoa Community College,http://www.amsamoa.edu/,78,8040,5021,5963,6683
+Southern Institute of Technology,https://www.sit.ac.nz/,79,8142,5160,5963,6683
+Eastern College Australia,https://www.eastern.edu.au/,80,8394,5494,5963,6683
+Australian Film Television and Radio School,https://www.aftrs.edu.au/,81,8598,5807,5963,6683
+Canberra Institute of Technology,https://cit.edu.au/,82,8615,5833,5963,6683
+Kangan Batman Institute,https://www.kangan.edu.au/,83,8837,6095,5963,6683
+Holmesglen Institute,https://holmesglen.edu.au/,84,8891,6172,5963,6683
+Australia College of Nursing,https://www.acn.edu.au/,85,8993,6314,5963,6683
+Whitireia Polytechnic,https://www.whitireia.ac.nz/,86,9023,6351,5963,6683
+Box Hill Institute,https://www.boxhill.edu.au/,87,9060,6392,5963,6683
+Avondale College,https://www.avondale.edu.au/,88,9178,6537,5963,6683
+National Institute of Dramatic Art,http://www.nida.edu.au/,89,9192,6555,5963,6683
+Wellington Institute of Technology,https://www.weltec.ac.nz/,90,9338,6746,5963,6683
+Chisholm Institute,https://www.chisholm.edu.au/,91,9412,6834,5963,6683
+National University of Samoa,https://nus.edu.ws/,92,9514,12905,5963,5999
+The Tax Institute,https://www.taxinstitute.com.au/,93,9525,7015,5963,6683
+SAE Institute Qantm College,https://sae.edu.au:443/,94,9573,7062,5963,6683
+Toi Ohomai Institute of Technology,https://toiohomai.ac.nz/,95,9658,7164,5963,6683
+William Angliss Institute,https://www.angliss.edu.au/,96,9741,7265,5963,6683
+Australian Institute of Business,https://www.aib.edu.au/,97,10143,7804,5963,6683
+JMC Academy,https://www.jmcacademy.edu.au/,98,10172,7830,5963,6683
+South Metropolitan TAFE (Polytechnic West),https://www.southmetrotafe.wa.edu.au/,99,10273,7976,5963,6683
+Melbourne Polytechnic,https://www.melbournepolytechnic.edu.au/,100,10377,8106,5963,6683
+International College of Management Sydney,https://www.icms.edu.au/,101,10460,8234,5963,6683
+(4) ACS Distance Education,https://www.acs.edu.au/,102,10534,8320,5963,6683
+Endeavour College of Natural Health,https://www.endeavour.edu.au/,103,10555,8340,5963,6683
+NorthTec (Northland Polytechnic),https://www.northtec.ac.nz/,104,10582,8368,5963,6683
+Australian College of Applied Psychology,https://www.acap.edu.au/,105,10597,8389,5963,6683
+University of Fiji,https://www.unifiji.ac.fj/,106,10639,14412,5963,5999
+Media Design School Auckland,https://www.mediadesignschool.com/,107,10643,8446,5963,6683
+Taylors College,https://www.taylorscollege.edu.au/,108,10674,8484,5963,6683
+Western Institute of Technology at Taranaki,https://www.witt.ac.nz/,109,10709,8528,5963,6683
+INSEARCH,https://www.insearch.edu.au/,110,10735,8578,5963,6683
+North Metropolitan TAFE,https://www.northmetrotafe.wa.edu.au/,111,10844,8704,5963,6683
+Governance Institute of Australia,https://www.governanceinstitute.com.au/,112,10889,8762,5963,6683
+University of Divinity,https://divinity.edu.au/,113,10929,8807,5963,6683
+Yoobee Colleges,https://www.yoobee.ac.nz/,114,10979,8877,5963,6683
+Gordon Geelong Institute of TAFE,https://www.thegordon.edu.au/,115,10979,8877,5963,6683
+Billy Blue College,https://www.billyblue.edu.au/,116,10999,8908,5963,6683
+Te Wānanga o Aotearoa,https://www.twoa.ac.nz/,117,11163,9088,5963,6683
+Engineering Institute of Technology,https://www.eit.edu.au/,118,11245,9210,5963,6683
+Holmes Institute,https://www.holmes.edu.au/,119,11245,9200,5963,6683
+Think: Colleges,http://www.think.edu.au/,120,11370,9360,5963,6683
+Monash College,https://www.monashcollege.edu.au/,121,11440,9438,5963,6683
+Alphacrucis College (Harvest Bible College),https://study.ac.edu.au/,122,11632,9687,5963,6683
+Christian Heritage College,https://chc.edu.au/,123,11632,9689,5963,6683
+National Art School (Darlinghurst School of Art & Design),https://nas.edu.au/,124,11687,9755,5963,6683
+Excelsia College (Wesley Institute),https://excelsia.edu.au/,125,11701,9772,5963,6683
+Kaplan Business School,https://www.kbs.edu.au/,126,11721,9808,5963,6683
+Carnegie Mellon University Australia,https://www.australia.cmu.edu/,127,11737,9816,5963,6683
+Moore Theological College,https://moore.edu.au/,128,12045,10218,5963,6683
+Nan Tien Institute,https://www.nantien.edu.au/,129,12124,10312,5963,6683
+Australian Institute of Music,https://www.aim.edu.au/,130,12124,10330,5963,6683
+The College of Law,https://www.collaw.edu.au/,131,12151,10353,5963,6683
+Melbourne College of Advanced Education,https://www.cae.edu.au/,132,12246,10468,5963,6683
+Deakin College (formerly Melbourne Institute of Business and Technology),https://www.deakincollege.edu.au/,133,12369,10617,5963,6683
+South Australian Institute of Business and Technology,https://www.saibt.sa.edu.au/,134,12434,10706,5963,6683
+Australian College of Physical Education,https://acpe.edu.au/,135,12560,10863,5963,6683
+Tai Poutini Polytechnic,https://www.tpp.ac.nz/,136,12597,10902,5963,6683
+Edith Cowan College (Perth Institute of Business and Technology),https://www.edithcowancollege.edu.au/,137,12597,10902,5963,6683
+Law Society of South Australia,https://www.lawsocietysa.asn.au/,138,12721,11070,5963,6683
+Batchelor Institute of Indigenous Tertiary Education,https://www.batchelor.edu.au/,139,12836,11213,5963,6683
+Victorian Institute of Technology,https://www.vit.edu.au/,140,12836,11213,5963,6683
+Pacific Adventist University,https://www.pau.ac.pg/,141,12897,15093,5963,6245
+NZMA,https://www.nzma.ac.nz/,142,12977,11379,5963,6683
+Australian Institute of Higher Education AIH,https://aih.nsw.edu.au/,143,12998,11403,5963,6683
+IPU New Zealand Tertiary Institute,https://www.ipu.ac.nz/,144,12998,11403,5963,6683
+Guam Community College,https://www.guamcc.edu/,145,13118,11532,5963,6683
+Whitecliffe College of Arts and Design,https://www.whitecliffe.ac.nz/,146,13223,11667,5963,6683
+Sydney Institute of Business and Technology Macquarie University,https://www.sibt.nsw.edu.au/,147,13238,11684,5963,6683
+International College of Hotel Management,https://www.ichm.edu.au/,148,13372,11854,5963,6683
+William Blue College of Hospitality and Tourism,https://www.williamblue.edu.au/,149,13488,12006,5963,6683
+Aspire2 International,https://aspire2international.ac.nz/,150,13607,12153,5963,6683
+Laidlaw College,https://www.laidlaw.ac.nz/,151,13625,12176,5963,6683
+Pacific International Hotel Management School,http://www.pihms.ac.nz/,152,13786,12361,5963,6683
+Marcus Oldham College,https://marcusoldham.vic.edu.au/,153,13905,12503,5963,6683
+Victorian Institute of Forensic Medicine,https://www.vifm.org/,154,14005,12635,5963,6683
+Top Education Institute,https://www.top.edu.au/,155,14023,12655,5963,6683
+Whitehouse Institute of Design,https://whitehouse-design.edu.au/,156,14039,12680,5963,6683
+Curtin College,https://www.curtincollege.edu.au/,157,14039,12680,5963,6683
+Academy of Information Technology,https://www.ait.edu.au/,158,14072,12728,5963,6683
+IIBIT,https://www.iibit.edu.au/,159,14091,12755,5963,6683
+Te Whare Wānanga o Awanuiarangi,https://www.wananga.ac.nz/,160,14131,12809,5963,6683
+(3) James Cook University Brisbane,https://www.jcub.edu.au/,161,14194,12890,5963,6683
+New Zealand Tertiary College,https://www.nztertiarycollege.ac.nz/,162,14313,13031,5963,6683
+Kent Institute of Business and Technology,https://kent.edu.au/,163,14377,13117,5963,6683
+Collarts,https://www.collarts.edu.au/,164,14414,13160,5963,6683
+Te Wānanga o Raukawa,https://www.wananga.com/,165,14481,13237,5963,6683
+Australian Ballet School,https://www.australianballetschool.com.au/,166,14536,13299,5963,6683
+College of the Marshall Islands,https://www.cmi.edu/,167,14565,13333,5963,6683
+Asia Pacific International College,https://apicollege.edu.au/,168,14765,13576,5963,6683
+Palau Community College,https://pcc.palau.edu/,169,14802,13624,5963,6683
+Macleay College,https://www.macleay.edu.au/,170,14802,13624,5963,6683
+King's Own Institute,http://koi.edu.au/,171,14881,13714,5963,6683
+Nature Care College,https://www.naturecare.com.au/,172,14897,13736,5963,6683
+New Zealand School of Education,https://www.nzse.ac.nz/,173,15104,13988,5963,6683
+UOW College,https://www.uowcollege.edu.au/,174,15124,14009,5963,6683
+Tabor College Australia,https://tabor.edu.au/,175,15163,14059,5963,6683
+Murdoch Institute of Technology,https://www.murdochinstitute.wa.edu.au/,176,15213,14115,5963,6683
+Northern Marianas College,https://marianas.edu/,177,15324,14250,5963,6683
+Photography Studies College Melbourne,https://www.psc.edu.au/,178,15635,14633,5963,6683
+Morling College,https://www.morling.edu.au/,179,15675,14677,5963,6683
+Campion College,https://www.campion.edu.au/,180,15702,14703,5963,6683
+Eynesbury Institute of Business and Technology,https://www.eynesbury.navitas.com/,181,15748,14761,5963,6683
+ICL Business School,https://www.icl.ac.nz/,182,15862,14896,5963,6683
+Australian Lutheran College,https://alc.edu.au/,183,15883,14918,5963,6683
+Sydney Missionary and Bible College,https://www.smbc.edu.au/,184,15945,14993,5963,6683
+Jansen Newman Institute,http://www.jni.edu.au/,185,16124,15199,5963,6683
+New Zealand Institute of Education,https://nzie.ac.nz/,186,16160,15240,5963,6683
+Newcastle International College,https://www.nic.nsw.edu.au/,187,16160,15240,5963,6683
+Adelaide Central School of Art,https://www.acsa.sa.edu.au/,188,16382,15510,5963,6683
+Queensland Theological College,https://www.qtc.edu.au/,189,16532,15687,5963,6683
+Victorian College of Optometry,https://www.aco.org.au/,190,16601,15762,5963,6683
+Australian Institute of Management Western Australia,https://aimwa.com/,191,16626,15792,5963,6683
+LCI Melbourne,https://www.lcimelbourne.edu.au/,192,16894,16105,5963,6683
+John Paul II Institute for Marriage and Family Melbourne,http://www.jp2institute.org/,193,17061,16304,5963,6683
+Vision College New Zealand,https://visioncollege.ac.nz/,194,17117,16367,5963,6683
+Vose Seminary,https://www.vose.edu.au/,195,17348,16639,5963,6683
+UUNZ Institute of Business,https://uunz.ac.nz/,196,17407,16701,5963,6683
+Sydney Institute of Traditional Chinese Medicine,https://www.sitcm.edu.au/,197,17471,16772,5963,6683
+Kenvale College,https://kenvale.edu.au/,198,17562,16867,5963,6683
+Newton College of Business and Technology,https://www.ncbt.ac.nz/,199,17590,16900,5963,6683
+Australian College of Theology,https://www.actheology.edu.au/,200,17665,16984,5963,6683
+Jschool Journalism Education & Training,https://jschool.com.au/,201,17894,17255,5963,6683
+Stott's Colleges,https://www.stotts.edu.au/,202,17894,17255,5963,6683
+Jazz Music Institute,https://www.jazz.qld.edu.au/,203,17964,17330,5963,6683
+Sydney College of Divinity,https://scd.edu.au/,204,17964,17330,5963,6683
+(4) Oceania University of Medicine,https://oum.edu.ws/,205,18016,17382,5963,6683
+Leo Cussen Centre for Law,https://www.leocussen.edu.au/,206,18126,17512,5963,6683
+University of Goroka,https://www.unigoroka.ac.pg/,207,18203,21655,5963,6245
+Academies Australasia Polytechnic,http://www.aapoly.edu.au/,208,18203,17597,5963,6683
+AGI Education,https://www.agi.ac.nz/,209,18293,17691,5963,6683
+Reformed Theological College,https://www.rtc.edu.au/,210,18538,17977,5963,6683
+Pacific Islands University,https://piu.edu/,211,18580,18025,5963,6683
+Malyon College,https://www.malyon.edu.au/,212,18702,18157,5963,6683
+National College Australia,https://www.nationalcollege.edu.au/,213,18702,18157,5963,6683
+Australian Institute of Police Management,https://www.aipm.gov.au/,214,18953,18442,5963,6683
+Adelaide College of Divinity,https://www.acd.edu.au/,215,19201,18719,5963,6683
+Catholic Theological College,https://ctc.edu.au/,216,19201,18719,5963,6683
+New Zealand Institute of Studies,http://nzios.ac.nz/,217,19427,18961,5963,6683
+Australian College of Technology,https://www.acit.edu.au/,218,19464,19002,5963,6683
+ATMC New Zealand,https://atmc.ac.nz/,219,19567,19108,5963,6683
+Solomon Islands National University,http://www.sinu.edu.sb/,220,19654,19207,5963,6683
+Bible College of South Australia,https://biblecollege.sa.edu.au/,221,19704,19260,5963,6683
+Taratahi Agricultural Training Centre,https://www.taratahi.ac.nz/,222,19748,19308,5963,6683
+Universal Business School Sydney UBSS,https://www.ubss.edu.au/,223,20025,19612,5963,6683
+Abacus Institute,http://abacusinstitute.ac.nz/,224,20394,20020,5963,6683
+Williams Business College,https://williams.edu.au/,225,20493,20131,5963,6683
+AWI International Education Group,https://www.awi.ac.nz/,226,20595,20238,5963,6683
+Oceanic Polytechnic,http://www.opie.vic.edu.au/,227,20649,20294,5963,6683
+FBI Fashion College,https://www.fbifashioncollege.com.au/,228,20694,20341,5963,6683
+Nazarene Theological College,https://ntc.edu.au/,229,20694,20341,5963,6683
+Worldview Centre for Inter Cultural Studies,http://www.worldview.edu.au/,230,20753,20402,5963,6683
+Perth Bible College,https://www.pbc.wa.edu.au/,231,20803,20464,5963,6683
+Trinity Theological College,https://ttc.wa.edu.au/,232,20803,20464,5963,6683
+Melbourne Institute for Experiential and Creative Arts Therapy MIECAT,https://miecat.edu.au/,233,20875,20533,5963,6683
+ATC New Zealand,https://www.atc.org.nz/,234,20996,20664,5963,6683
+HETI Health Education & Training,https://heti.edu.au/,235,21107,20780,5963,6683
+Elite Education Institute,https://www.ee.edu.au/,236,21168,20845,5963,6683
+Academy of Music and Performing Arts (Australian International Conservatorium of Music),https://www.ampa.edu.au/,237,21289,20975,5963,6683
+Australian Institute of Technical Training,http://aitt.vic.edu.au/,238,21524,21236,5963,6683
+Christ College,https://christcollege.edu.au/,239,21593,21312,5963,6683
+Sheridan College Australia,https://sheridan.edu.au/,240,21659,21383,5963,6683
+Youthworks College,https://www.youthworkscollege.edu.au/,241,21716,21443,5963,6683
+Brisbane School of Theology,https://bst.qld.edu.au/,242,21856,21596,5963,6683
+College of Christian Higher Education,https://www.nice.edu.au/,243,21914,21655,5963,6683
+Presbyterian Theological College,https://ptc.edu.au/,244,21979,21722,5963,6683
+Australian College of Christian Studies,https://www.ccs.edu.au/,245,22062,21809,5963,6683
+Imperial College of Australia,https://www.imperial.edu.au/,246,22062,21809,5963,6683
+Institute of Technology Australia,https://www.iota.edu.au/,247,22432,22200,5963,6683
+International Institute of Business and Technology Australia,http://www.iibt.edu.au/,248,22733,22511,5963,6683
+New Zealand School of Export,http://www.export.ac.nz/,249,22733,22511,5963,6683
+Centre for Pavement Engineering Education,https://www.pavementeducation.edu.au/,250,22818,22603,5963,6683
+Papua New Guinea University of Natural Resources and Environment (University of Vudal),http://www.unre.ac.pg/,251,22818,22603,5963,6683
+Australian Guild of Music Education,https://www.guildmusic.edu.au/,252,22818,22603,5963,6683
+Cairnmillar Institute School of Psychology Counselling and Psychotherapy,https://www.cairnmillar.org.au/,253,23028,22826,5963,6683
+Australian National College,https://anc.vic.edu.au/,254,23119,22916,5963,6683
+Mary Andrews College,https://www.mac.edu.au/,255,23299,23098,5963,6683
+Alpha Educational Institute,http://aei.ac.nz/,256,23386,23191,5963,6683
+Summer Institute of Linguistics Australia,http://www.sila.org.au/,257,23570,23384,5963,6683
+Mayfield Education,https://mayfield.edu.au/,258,23909,23744,5963,6683
+Montessori World Educational Institute,http://www.mwei.edu.au/,259,24026,23868,5963,6683
+Atenisi Institute,https://www.atenisi.edu.to/,260,24587,24459,5963,6683
+Kingsley College,https://kingsley.edu.au/,261,25422,25317,5963,6683
+St Clements University Niue,http://www.stclements.edu.nu/,262,25533,25431,5963,6683
+Kauri Academy,https://kauriacademy.ac.nz/,263,25533,25431,5963,6683
+Manu Ao Academy,http://www.manu-ao.ac.nz/,264,26736,26674,5963,6683
+Australasian College of Health and Wellness,https://www.achw.edu.au/,265,26736,26794,5963,6683
+Stellaris,http://www.stellaris.co.nz/,266,26853,26795,5963,6683
+Kiribati Institute of Technology,https://kit.edu.ki/,267,28021,27974,5963,6683
+Leaders Institute Brisbane,https://leaders.edu.au/,268,28856,28825,5963,6683
+Vanuatu Institute of Teacher Education,http://www.ifev.edu.vu/,269,28970,28942,5963,6683
+Kollel Beth HaTalmud Yehuda Fishman Institute,https://www.kollel.edu.au/,270,28970,28942,5963,6683
+Kiribati Teachers College,http://ktc.edu.ki/,271,28970,28942,5963,6683
+Unified Academy of Innovation,http://www.uai.ac.nz/,272,30229,30217,5963,6683
