@@ -1,0 +1,901 @@
+﻿Name,Web,Regional_ranking,World_ranking,Impact_score,Openness_score,Excellence_core,Year
+University of Tokyo,www.u-tokyo.ac.jp,1,42,103,52,20,2012
+National Taiwan University,www.ntu.edu.tw,2,58,145,72,103,2012
+Kyoto University,www.kyoto-u.ac.jp,3,60,236,31,40,2012
+National University of Singapore,www.nus.edu.sg,4,75,163,116,36,2012
+Tsinghua University China / 清华大学,www.tsinghua.edu.cn,5,78,104,162,55,2012
+Shanghai Jiao Tong University / 上海交通大学,www.sjtu.edu.cn,6,102,282,238,126,2012
+University of Hong Kong,www.hku.hk,7,108,194,618,127,2012
+Peking University / 北京大学,www.pku.edu.cn,8,123,105,591,76,2012
+Tel Aviv University,www.tau.ac.il,9,138,119,407,113,2012
+Weizmann Institute of Science,www.weizmann.ac.il,10,149,180,1267,227,2012
+Seoul National University / 서울대학교,www.snu.ac.kr,11,155,436,390,74,2012
+Kasetsart University,www.ku.ac.th,12,167,91,262,1160,2012
+Osaka University,www.osaka-u.ac.jp,13,170,445,128,70,2012
+Korea Advanced Institute of Science & Technology KAIST,www.kaist.ac.kr,14,172,532,206,200,2012
+Hong Kong Polytechnic University,www.polyu.edu.hk,15,178,98,618,187,2012
+Chinese University of Hong Kong,www.cuhk.edu.hk,16,178,277,363,150,2012
+Zhejiang University (National Che Kiang University) / 浙江大学,www.zju.edu.cn,17,183,287,648,92,2012
+National Chiao Tung University,www.nctu.edu.tw,18,185,143,732,265,2012
+National Cheng Kung University,www.ncku.edu.tw,19,189,367,460,207,2012
+Hebrew University of Jerusalem,www.huji.ac.il,20,189,311,338,161,2012
+Mahidol University,www.mahidol.ac.th,21,202,269,163,528,2012
+Chulalongkorn University,www.chula.ac.th,22,209,148,378,561,2012
+Chiang Mai University,www.cmu.ac.th,23,232,184,753,809,2012
+Khon Kaen University,www.kku.ac.th,24,236,109,635,1107,2012
+King Saud University,ksu.edu.sa,25,236,371,60,884,2012
+Nagoya University,www.nagoya-u.ac.jp,26,246,510,324,149,2012
+(1) Korea University / 고려대학교,www.korea.ac.kr,27,251,622,257,249,2012
+Fudan University (Shanghai Medical University) / 复旦大学,www.fudan.edu.cn,28,258,234,607,189,2012
+Keio University,www.keio.ac.jp,29,259,304,553,315,2012
+Shandong University / 山东大学,www.sdu.edu.cn,30,266,328,655,314,2012
+(1) Middle East Technical University,www.metu.edu.tr,31,277,254,146,519,2012
+Tohoku University,www.tohoku.ac.jp,32,279,762,376,81,2012
+National Tsing Hua University Taiwan,www.nthu.edu.tw,33,282,374,878,300,2012
+Hokkaido University,www.hokudai.ac.jp,34,285,703,432,193,2012
+University of Tsukuba,www.tsukuba.ac.jp,35,288,802,265,279,2012
+Harbin Institute of Technology / 哈尔滨工业大学,www.hit.edu.cn,36,294,102,1796,241,2012
+Prince of Songkla University,www.psu.ac.th,37,298,251,414,1111,2012
+(1) Yonsei University / 연세대학교,www.yonsei.ac.kr,38,303,645,533,181,2012
+Tokyo Institute of Technology,www.titech.ac.jp,39,316,806,309,167,2012
+Pohang University of Science & Technology / 포항공과대학교,www.postech.ac.kr,40,324,786,1097,296,2012
+National Sun Yat Sen University,www.nsysu.edu.tw,41,340,565,661,496,2012
+National Central University,www.ncu.edu.tw,42,351,211,1250,456,2012
+Wuhan University / 武汉大学,www.whu.edu.cn,43,352,203,1914,337,2012
+City University of Hong Kong,www.cityu.edu.hk,44,356,639,412,188,2012
+University of Science & Technology of China / 中国科学技术大学,www.ustc.edu.cn,45,359,580,604,186,2012
+Kobe University,www.kobe-u.ac.jp,46,364,657,370,406,2012
+Jilin University / 吉林大学,www.jlu.edu.cn,47,365,705,437,311,2012
+Nanyang Technological University,www.ntu.edu.sg,48,368,683,695,105,2012
+Sun Yat Sen University (Zhongshan University) / 中山大学,www.sysu.edu.cn,49,374,504,891,272,2012
+Universitas Gadjah Mada,www.ugm.ac.id,50,381,142,888,2002,2012
+Nankai University / 南开大学,www.nankai.edu.cn,51,382,137,1644,364,2012
+Kyushu University,www.kyushu-u.ac.jp,52,383,826,673,176,2012
+Technion Israel Institute of Technology,www.technion.ac.il,53,386,850,429,182,2012
+Tamkang University,www.tku.edu.tw,54,408,616,675,944,2012
+Hong Kong University of Science & Technology,www.ust.hk,55,409,636,793,206,2012
+Xiamen University / 厦门大学,www.xmu.edu.cn,56,412,435,836,502,2012
+Hong Kong Baptist University,www.hkbu.edu.hk,57,415,670,883,595,2012
+Okayama University,www.okayama-u.ac.jp,58,424,1796,21,368,2012
+National Taiwan Normal University,www.ntnu.edu.tw,59,432,473,720,925,2012
+Universiti Sains Malaysia,www.usm.my,60,437,963,102,620,2012
+Nanjing University / 南京大学,www.nju.edu.cn,61,438,380,1594,234,2012
+National Chung Hsing University,www.nchu.edu.tw,62,441,727,908,495,2012
+Nanjing Normal University / 南京师范大学,www.njnu.edu.cn,63,442,442,321,891,2012
+Universiti Kebangsaan Malaysia / National University of Malaysia,www.ukm.my,64,449,554,372,852,2012
+Universiti Teknologi MARA,www.uitm.edu.my,65,452,372,706,1676,2012
+Xi'An Jiaotong University / 西安交通大学,www.xjtu.edu.cn,66,453,664,1021,329,2012
+National Chengchi University,www.nccu.edu.tw,67,456,518,482,1398,2012
+Lanzhou University / 兰州大学,www.lzu.edu.cn,68,472,207,2083,425,2012
+Beijing Normal University / 北京师范大学,www.bnu.edu.cn,69,480,528,940,476,2012
+King Mongkut's University of Technology Thonburi,www.kmutt.ac.th,70,482,441,1236,903,2012
+Southeast University China / 东南大学,www.seu.edu.cn,71,487,926,802,346,2012
+Indian Institute of Technology Bombay,www.iitb.ac.in,72,492,1264,302,559,2012
+University of Haifa,www.haifa.ac.il,73,493,586,1057,565,2012
+Ben Gurion University of the Negev,www.bgu.ac.il,74,496,936,729,336,2012
+Istanbul Technical University / İstanbul Teknik Üniversitesi,www.itu.edu.tr,75,500,466,776,574,2012
+Universiti Putra Malaysia,www.upm.edu.my,76,501,757,511,859,2012
+Gazi University,gazi.edu.tr,77,502,776,242,670,2012
+Huazhong University of Science & Technology / 华中科技大学,www.hust.edu.cn,78,506,577,1869,295,2012
+University of Indonesia,www.ui.ac.id,79,508,544,787,1733,2012
+Renmin University of China / 中国人民大学,www.ruc.edu.cn,80,510,223,1166,1228,2012
+Indian Institute of Technology Madras,www.iitm.ac.in,81,513,474,860,532,2012
+(1) Kyungpook (Kyungbook) National University / 경북대학교,www.knu.ac.kr,82,516,760,1160,417,2012
+Hiroshima University,www.hiroshima-u.ac.jp,83,518,1000,761,349,2012
+Universiti Teknologi Malaysia,www.utm.my,84,528,971,200,1161,2012
+Northeastern University China / 东北大学,www.neu.edu.cn,85,528,235,1498,629,2012
+Bar Ilan University,www.biu.ac.il,86,538,798,1177,502,2012
+King Fahd University of Petroleum & Minerals,www.kfupm.edu.sa,87,544,902,486,911,2012
+Ankara University,www.ankara.edu.tr,88,549,1689,69,758,2012
+University of Malaya,www.um.edu.my,89,551,1067,336,694,2012
+Ege University,www.ege.edu.tr,90,563,794,514,653,2012
+(1) Sungkyunkwan University / 성균관대학교,www.skku.ac.kr,91,564,1055,1284,283,2012
+Institute of Technology Bandung,www.itb.ac.id,92,569,152,796,1874,2012
+Tongji University / 同济大学,www.tongji.edu.cn,93,578,631,2231,382,2012
+Chung Yuan Christian University,www.cycu.edu.tw,94,579,809,1416,790,2012
+Institut Teknologi Sepuluh Nopember,www.its.ac.id,95,583,750,92,3320,2012
+Hanyang University / 한양대학교,www.hanyang.ac.kr,96,583,1779,814,321,2012
+Central South University (Zhongnan University) / 中南大学,www.csu.edu.cn,97,586,653,1778,439,2012
+Pusan National University (Miryang) / 부산대학교,www.pusan.ac.kr,98,589,775,1447,480,2012
+Southern Taiwan University,www.stut.edu.tw,99,590,893,712,1200,2012
+East China Normal University / 华东师范大学,www.ecnu.edu.cn,100,598,940,722,623,2012
+National University of Singapore,www.nus.edu.sg,1,54,66,176,43,2013
+Tsinghua University China / 清华大学,www.tsinghua.edu.cn,2,57,70,441,54,2013
+University of Tokyo / 東京大学,www.u-tokyo.ac.jp,3,63,122,44,24,2013
+National Taiwan University,www.ntu.edu.tw,4,66,85,30,103,2013
+Peking University / 北京大学,www.pku.edu.cn,5,67,78,366,56,2013
+Zhejiang University (National Che Kiang University) / 浙江大学,www.zju.edu.cn,6,76,92,111,79,2013
+Wuhan University / 武汉大学,www.whu.edu.cn,7,92,64,335,307,2013
+Shanghai Jiao Tong University / 上海交通大学,www.sjtu.edu.cn,8,94,118,273,107,2013
+Fudan University (Shanghai Medical University) / 复旦大学,www.fudan.edu.cn,9,107,106,842,141,2013
+Seoul National University / 서울대학교,www.snu.ac.kr,10,108,196,92,76,2013
+University of Hong Kong,www.hku.hk,11,110,157,3,127,2013
+Nanjing University / 南京大学,www.nju.edu.cn,12,111,94,875,200,2013
+Shandong University / 山东大学,www.sdu.edu.cn,13,113,93,360,262,2013
+Kyoto University / 京都大学,www.kyoto-u.ac.jp,14,121,250,110,58,2013
+Beijing Normal University / 北京师范大学,www.bnu.edu.cn,15,133,76,820,403,2013
+Korea Advanced Institute of Science & Technology KAIST,www.kaist.ac.kr,16,144,164,293,219,2013
+Sun Yat Sen University (Zhongshan University) / 中山大学,www.sysu.edu.cn,17,171,171,773,233,2013
+Chinese University of Hong Kong,www.cuhk.edu.hk,18,172,223,267,157,2013
+National Cheng Kung University,www.ncku.edu.tw,19,183,241,125,204,2013
+National Chiao Tung University,www.nctu.edu.tw,20,187,178,355,301,2013
+Central South University (Zhongnan University) / 中南大学,www.csu.edu.cn,21,188,125,1735,371,2013
+Xiamen University / 厦门大学,www.xmu.edu.cn,22,194,130,559,412,2013
+Beihang University (Beijing University of Aeronautics and Astronautics) / 北京航空航天大学,www.buaa.edu.cn,23,197,120,1957,400,2013
+Tel Aviv University,www.tau.ac.il,24,197,356,153,128,2013
+University of Science & Technology of China / 中国科学技术大学,www.ustc.edu.cn,25,212,274,808,164,2013
+Huazhong University of Science & Technology / 华中科技大学,www.hust.edu.cn,26,213,219,1076,249,2013
+Chulalongkorn University,www.chula.ac.th,27,217,111,382,595,2013
+Hebrew University of Jerusalem,www.huji.ac.il,28,234,385,270,187,2013
+Harbin Institute of Technology / 哈尔滨工业大学,www.hit.edu.cn,29,235,302,934,196,2013
+Nagoya University / 名古屋大学,www.nagoya-u.ac.jp,30,243,380,268,173,2013
+Kyushu University / 九州大学,www.kyushu-u.ac.jp,31,244,329,301,225,2013
+Sichuan University / 四川大学,www.scu.edu.cn,32,250,255,1480,287,2013
+Lanzhou University / 兰州大学,www.lzu.edu.cn,33,253,201,1173,383,2013
+National Central University,www.ncu.edu.tw,34,255,214,398,435,2013
+Osaka University / 大阪大学,www.osaka-u.ac.jp,35,259,559,295,91,2013
+Tongji University / 同济大学,www.tongji.edu.cn,36,262,243,1230,355,2013
+China University of Mining & Technology / 中国矿业大学,www.cumt.edu.cn,37,267,102,1226,827,2013
+Keio University / 慶応義塾大学,www.keio.ac.jp,38,272,285,540,339,2013
+Chiang Mai University,www.cmu.ac.th,39,281,147,42,851,2013
+Mahidol University,www.mahidol.ac.th,40,288,240,222,552,2013
+Nankai University / 南开大学,www.nankai.edu.cn,41,289,306,1636,326,2013
+National Tsing Hua University Taiwan,www.nthu.edu.tw,42,293,381,184,315,2013
+Indian Institute of Technology Bombay,www.iitb.ac.in,43,294,199,630,587,2013
+Xi'An Jiaotong University / 西安交通大学,www.xjtu.edu.cn,44,300,386,851,312,2013
+Nanyang Technological University,www.ntu.edu.sg,45,306,694,634,95,2013
+Technion Israel Institute of Technology,www.technion.ac.il,46,311,619,68,229,2013
+East China Normal University / 华东师范大学,www.ecnu.edu.cn,47,314,244,1231,524,2013
+Northeastern University China / 东北大学,www.neu.edu.cn,48,328,232,1789,561,2013
+Hokkaido University / 北海道大学,www.hokudai.ac.jp,49,332,575,249,240,2013
+Tohoku University / 東北大学,www.tohoku.ac.jp,50,336,765,247,110,2013
+(1) Korea University / 고려대학교,www.korea.ac.kr,51,339,602,926,217,2013
+Universiti Sains Malaysia,www.usm.my,52,341,341,603,476,2013
+Jilin University / 吉林大学,www.jlu.edu.cn,53,344,552,555,296,2013
+National Formosa University,www.nfu.edu.tw,54,345,95,807,1293,2013
+Tianjin University / 天津大学,www.tju.edu.cn,55,347,371,1793,409,2013
+Dalian University of Technology / 大连理工大学,www.dlut.edu.cn,56,351,566,1130,281,2013
+Weizmann Institute of Science,www.weizmann.ac.il,57,353,663,448,253,2013
+Hong Kong Polytechnic University,www.polyu.edu.hk,58,367,715,460,189,2013
+China University of Geosciences / 中国地质大学,www.cug.edu.cn,59,370,299,2117,586,2013
+Peking University Health Science Center (Beijing Medical University) / 北京大学医学部,www.bjmu.edu.cn,60,383,401,2223,473,2013
+(1) Yonsei University / 연세대학교,www.yonsei.ac.kr,61,383,822,790,171,2013
+University of Tsukuba / 筑波大学,www.tsukuba.ac.jp,62,385,670,276,305,2013
+National Taiwan Normal University,www.ntnu.edu.tw,63,397,253,173,925,2013
+Xidian University / 西安电子科技大学,www.xidian.edu.cn,64,398,390,1435,547,2013
+Hong Kong University of Science & Technology,www.ust.hk,65,400,747,531,251,2013
+Renmin University of China / 中国人民大学,www.ruc.edu.cn,66,401,188,1340,1006,2013
+King Saud University,ksu.edu.sa,67,402,508,27,495,2013
+Northeast Normal University / 东北师范大学,www.nenu.edu.cn,68,406,373,699,644,2013
+Kasetsart University,www.ku.ac.th,69,412,194,77,1198,2013
+Hunan Normal University / 湖南师范大学,www.hunnu.edu.cn,70,414,149,2618,1200,2013
+Istanbul University,www.istanbul.edu.tr,71,418,414,406,614,2013
+Indian Institute of Technology Madras,www.iitm.ac.in,72,419,448,895,570,2013
+National Chung Cheng University,www.ccu.edu.tw,73,427,308,713,799,2013
+Northwest University China / 西北大学,www.nwu.edu.cn,74,432,261,1768,853,2013
+National Sun Yat Sen University,www.nsysu.edu.tw,75,433,565,396,510,2013
+Tokyo Institute of Technology / 東京工業大学,www.titech.ac.jp,76,433,881,384,213,2013
+City University of Hong Kong,www.cityu.edu.hk,77,439,834,781,216,2013
+Fuzhou University / 福州大学,www.fzu.edu.cn,78,440,345,2497,715,2013
+China Agricultural University / 中国农业大学,www.cau.edu.cn,79,443,519,1476,503,2013
+King Mongkut's Institute of Technology Ladkrabang,www.kmitl.ac.th,80,445,173,1137,1252,2013
+University of Haifa,www.haifa.ac.il,81,446,476,437,605,2013
+(1) Middle East Technical University / Orta Doğu Teknik Üniversitesi,www.metu.edu.tr,82,455,551,607,502,2013
+Nanjing Normal University / 南京师范大学,www.njnu.edu.cn,83,460,290,1520,903,2013
+Prince of Songkla University,www.psu.ac.th,84,462,310,34,1122,2013
+South China Normal University / 华南师范大学,www.scnu.edu.cn,85,465,374,1120,787,2013
+Southeast University China / 东南大学,www.seu.edu.cn,86,469,847,899,291,2013
+Hanyang University / 한양대학교,www.hanyang.ac.kr,87,477,776,1750,320,2013
+Harbin Engineering University / 哈尔滨工程大学,www.hrbeu.edu.cn,88,478,346,2401,812,2013
+Khon Kaen University,www.kku.ac.th,89,481,353,257,992,2013
+Shaanxi Normal University / 陕西师范大学,www.snnu.edu.cn,90,484,276,739,1111,2013
+South China Agricultural University / 华南农业大学,www.scau.edu.cn,91,490,304,1396,1027,2013
+(1) Beijing (Northern) Jiaotong University / 北京交通大学,www.bjtu.edu.cn,92,493,420,3054,735,2013
+Ningbo University / 宁波大学,www.nbu.edu.cn,93,494,239,1214,1228,2013
+Southwest Jiaotong University / 西南交通大学,www.swjtu.edu.cn,94,497,403,1585,822,2013
+Nanjing University of Technology / 南京工业大学,www.njut.edu.cn,95,498,425,1978,795,2013
+Pohang University of Science & Technology / 포항공과대학교,www.postech.ac.kr,96,499,893,1171,306,2013
+(1) Sungkyunkwan University / 성균관대학교,www.skku.ac.kr,97,506,989,2325,243,2013
+Beijing University of Chemical Technology / 北京化工大学 ,www.buct.edu.cn,98,510,550,2844,589,2013
+University of Electronic Science & Technology of China / 电子科技大学,www.uestc.edu.cn,99,512,667,2097,486,2013
+Hiroshima University / 広島大学,www.hiroshima-u.ac.jp,100,514,854,402,374,2013
+(1) Seoul National University / 서울대학교,www.snu.ac.kr,1,34,32,255,79,2014
+National Taiwan University,www.ntu.edu.tw,2,35,81,12,103,2014
+Peking University / 北京大学,www.pku.edu.cn,3,37,44,148,49,2014
+Tsinghua University China / 清华大学,www.tsinghua.edu.cn,4,48,41,174,45,2014
+University of Tokyo / 東京大学,www.u-tokyo.ac.jp,5,53,94,149,25,2014
+Zhejiang University (National Che Kiang University) / 浙江大学,www.zju.edu.cn,6,60,52,362,72,2014
+Shanghai Jiao Tong University / 上海交通大学,www.sjtu.edu.cn,7,68,128,124,102,2014
+University of Hong Kong,www.hku.hk,8,79,134,74,130,2014
+Kyoto University / 京都大学,www.kyoto-u.ac.jp,9,88,241,62,63,2014
+Korea Advanced Institute of Science & Technology KAIST,www.kaist.ac.kr,10,92,122,300,215,2014
+Xiamen University / 厦门大学,www.xmu.edu.cn,11,103,95,32,371,2014
+National University of Singapore,www.nus.edu.sg,12,108,176,192,41,2014
+Wuhan University / 武汉大学,www.whu.edu.cn,13,122,67,894,292,2014
+National Central University,www.ncu.edu.tw,14,143,218,10,458,2014
+National Chiao Tung University,www.nctu.edu.tw,15,157,188,216,322,2014
+Fudan University (Shanghai Medical University) / 复旦大学,www.fudan.edu.cn,16,159,147,484,135,2014
+Jilin University / 吉林大学,www.jlu.edu.cn,17,166,264,139,273,2014
+National Cheng Kung University,www.ncku.edu.tw,18,176,377,80,235,2014
+Hebrew University of Jerusalem,www.huji.ac.il,19,181,285,1050,203,2014
+Chinese University of Hong Kong,www.cuhk.edu.hk,20,183,254,342,166,2014
+Shandong University / 山东大学,www.sdu.edu.cn,21,185,234,400,230,2014
+Istanbul University,www.istanbul.edu.tr,22,190,119,55,640,2014
+Sun Yat Sen University (Zhongshan University) / 中山大学,www.sysu.edu.cn,23,197,153,1380,207,2014
+Tel Aviv University,www.tau.ac.il,24,203,359,882,136,2014
+Hong Kong Polytechnic University,www.polyu.edu.hk,25,217,230,407,194,2014
+Northeast Normal University / 东北师范大学,www.nenu.edu.cn,26,219,54,1302,631,2014
+University of Science & Technology of China / 中国科学技术大学,www.ustc.edu.cn,27,224,214,1136,162,2014
+National Tsing Hua University Taiwan,www.nthu.edu.tw,28,226,433,128,331,2014
+(1) Yonsei University / 연세대학교,www.yonsei.ac.kr,29,228,324,1102,175,2014
+Xi'An Jiaotong University / 西安交通大学,www.xjtu.edu.cn,30,231,207,762,297,2014
+Nagoya University / 名古屋大学,www.nagoya-u.ac.jp,31,233,481,426,183,2014
+Osaka University / 大阪大学,www.osaka-u.ac.jp,32,243,511,374,99,2014
+Keio University / 慶応義塾大学,www.keio.ac.jp,33,256,220,514,357,2014
+Huazhong University of Science & Technology / 华中科技大学,www.hust.edu.cn,34,262,283,814,209,2014
+Nanjing University / 南京大学,www.nju.edu.cn,35,269,276,1033,185,2014
+Mahidol University,www.mahidol.ac.th,36,273,223,496,572,2014
+Beijing Normal University / 北京师范大学,www.bnu.edu.cn,37,273,143,1311,379,2014
+Sichuan University / 四川大学,www.scu.edu.cn,38,276,108,2551,276,2014
+(1) Korea University / 고려대학교,www.korea.ac.kr,39,278,420,622,221,2014
+Nanyang Technological University,www.ntu.edu.sg,40,283,659,382,86,2014
+Hokkaido University / 北海道大学,www.hokudai.ac.jp,41,288,500,411,277,2014
+Beihang University (Beijing University of Aeronautics and Astronautics) / 北京航空航天大学,www.buaa.edu.cn,42,291,245,594,380,2014
+Hanyang University / 한양대학교,www.hanyang.ac.kr,43,293,307,1461,330,2014
+University of Tsukuba / 筑波大学,www.tsukuba.ac.jp,44,301,444,586,315,2014
+(1) Kyungpook (Kyungbook) National University / 경북대학교,www.knu.ac.kr,45,305,219,2051,408,2014
+Tongji University / 同济大学,www.tongji.edu.cn,46,305,186,2131,329,2014
+Shanghai University / 上海大学,www.shu.edu.cn,47,310,302,468,477,2014
+National Chengchi University,www.nccu.edu.tw,48,321,210,85,1392,2014
+National Sun Yat Sen University,www.nsysu.edu.tw,49,323,608,118,552,2014
+Hong Kong University of Science & Technology,www.ust.hk,50,324,580,613,284,2014
+Weizmann Institute of Science,www.weizmann.ac.il,51,326,508,1449,260,2014
+Tohoku University / 東北大学,www.tohoku.ac.jp,52,331,610,656,128,2014
+Technion Israel Institute of Technology,www.technion.ac.il,53,335,665,939,246,2014
+Kasetsart University,www.ku.ac.th,54,340,197,413,1276,2014
+University of Electronic Science & Technology of China / 电子科技大学,www.uestc.edu.cn,55,341,267,817,463,2014
+Renmin University of China / 中国人民大学,www.ruc.edu.cn,56,345,173,258,996,2014
+Lanzhou University / 兰州大学,www.lzu.edu.cn,57,348,335,869,383,2014
+(1) Sungkyunkwan University / 성균관대학교,www.skku.edu,58,349,313,2079,223,2014
+Kyushu University / 九州大学,www.kyushu-u.ac.jp,59,351,482,1124,242,2014
+King Saud University,ksu.edu.sa,60,356,549,425,397,2014
+Southeast University China / 东南大学,www.seu.edu.cn,61,360,347,1660,279,2014
+Jinan University / 暨南大学,www.jnu.edu.cn,62,363,110,1034,925,2014
+Central South University (Zhongnan University) / 中南大学,www.csu.edu.cn,63,364,206,3207,335,2014
+China Agricultural University / 中国农业大学,www.cau.edu.cn,64,369,397,1184,483,2014
+City University of Hong Kong,www.cityu.edu.hk,65,371,621,466,219,2014
+Hiroshima University / 広島大学,www.hiroshima-u.ac.jp,66,375,275,1300,388,2014
+East China Normal University / 华东师范大学,www.ecnu.edu.cn,67,379,362,758,511,2014
+Pohang University of Science & Technology / 포항공과대학교,www.postech.ac.kr,68,380,484,2074,312,2014
+Tokyo Institute of Technology / 東京工業大学,www.titech.ac.jp,69,381,855,513,238,2014
+Southwest University China / 西南大学,www.swu.edu.cn,70,384,242,847,844,2014
+University of Tehran,www.ut.ac.ir,71,398,713,50,384,2014
+Tamkang University,www.tku.edu.tw,72,401,478,274,996,2014
+National Taiwan Normal University,www.ntnu.edu.tw,73,403,318,675,939,2014
+Dalian University of Technology / 大连理工大学,www.dlut.edu.cn,74,411,601,1616,262,2014
+Universitas Gadjah Mada,www.ugm.ac.id,75,414,224,18,2144,2014
+Pusan National University (Miryang) / 부산대학교,www.pusan.ac.kr,76,420,268,2455,464,2014
+Tehran University of Medical Sciences,www.tums.ac.ir,77,422,777,103,555,2014
+China University of Geosciences / 中国地质大学,www.cug.edu.cn,78,426,262,1607,526,2014
+Chulalongkorn University,www.chula.ac.th,79,433,431,1064,602,2014
+National Chung Cheng University,www.ccu.edu.tw,80,440,456,313,884,2014
+Harbin Institute of Technology / 哈尔滨工业大学,www.hit.edu.cn,81,442,517,2869,193,2014
+National Chung Hsing University,www.nchu.edu.tw,82,443,1228,78,528,2014
+(1) Kyung Hee University / 경희대학교,www.khu.ac.kr,83,451,577,1689,420,2014
+Nankai University / 南开大学,www.nankai.edu.cn,84,458,300,2649,321,2014
+Tianjin University / 天津大学,www.tju.edu.cn,85,465,356,2144,394,2014
+Huazhong (Central China) Normal University / 华中师范大学,www.ccnu.edu.cn,86,465,202,2530,688,2014
+Nanjing Agricultural University / 南京农业大学,www.njau.edu.cn,87,471,336,1528,711,2014
+Kobe University / 神戸大学,www.kobe-u.ac.jp,88,481,964,457,434,2014
+Peking University Health Science Center (Beijing Medical University) / 北京大学医学部,www.bjmu.edu.cn,89,481,596,792,432,2014
+Middle East Technical University / Orta Doğu Teknik Üniversitesi,www.metu.edu.tr,90,484,711,355,519,2014
+(1) Nanjing Normal University / 南京师范大学,www.njnu.edu.cn,91,486,171,2480,890,2014
+(1) Kangwon National University (Samcheok National University) / 강원대학교,www.kangwon.ac.kr,92,494,329,2450,755,2014
+Chiang Mai University,www.cmu.ac.th,93,502,542,999,888,2014
+National Taiwan Ocean University,www.ntou.edu.tw,94,504,698,254,896,2014
+South China Normal University / 华南师范大学,www.scnu.edu.cn,95,508,233,2816,762,2014
+Universiti Teknologi Malaysia,www.utm.my,96,509,1210,79,765,2014
+Universiti Putra Malaysia,www.upm.edu.my,97,510,1668,136,591,2014
+Xidian University / 西安电子科技大学,www.xidian.edu.cn,98,523,284,3073,538,2014
+King Mongkut's University of Technology Thonburi,www.kmutt.ac.th,99,527,624,314,975,2014
+University of Indonesia,www.ui.ac.id,100,532,389,209,1874,2014
+Peking University / 北京大学,www.pku.edu.cn,1,37,43,365,36,2015
+(1)  Seoul National University / 서울대학교,www.snu.ac.kr,2,45,64,63,66,2015
+University of Tokyo / 東京大学,www.u-tokyo.ac.jp,3,46,108,12,24,2015
+Zhejiang University (National Che Kiang University) / 浙江大学,www.zju.edu.cn,4,48,37,545,50,2015
+National Taiwan University,www.ntu.edu.tw,5,49,81,28,94,2015
+Tsinghua University China / 清华大学,www.tsinghua.edu.cn,6,57,48,658,28,2015
+University of Hong Kong,www.hku.hk,7,68,152,3,115,2015
+Shanghai Jiao Tong University / 上海交通大学,www.sjtu.edu.cn,8,70,93,545,82,2015
+Kyoto University / 京都大学,www.kyoto-u.ac.jp,9,75,208,20,64,2015
+National University of Singapore,www.nus.edu.sg,10,89,186,84,29,2015
+Fudan University (Shanghai Medical University) / 复旦大学,www.fudan.edu.cn,11,111,100,892,105,2015
+(1)  Korea Advanced Institute of Science & Technology KAIST,www.kaist.ac.kr,12,123,235,326,166,2015
+National Cheng Kung University,www.ncku.edu.tw,13,127,160,128,217,2015
+Tel Aviv University,www.tau.ac.il,14,131,450,2,143,2015
+Beijing Normal University / 北京师范大学,www.bnu.edu.cn,15,133,39,1611,338,2015
+Sun Yat Sen University (Zhongshan University) / 中山大学,www.sysu.edu.cn,16,137,119,1162,171,2015
+Chinese University of Hong Kong,www.cuhk.edu.hk,17,150,230,172,154,2015
+Huazhong University of Science & Technology / 华中科技大学,www.hust.edu.cn,18,158,80,2571,141,2015
+University of Science & Technology of China / 中国科学技术大学,www.ustc.edu.cn,19,163,128,911,126,2015
+National Chiao Tung University,www.nctu.edu.tw,20,165,174,176,267,2015
+Xi'An Jiaotong University / 西安交通大学,www.xjtu.edu.cn,21,166,60,1902,216,2015
+Beihang University (Beijing University of Aeronautics and Astronautics) / 北京航空航天大学,www.buaa.edu.cn,22,173,52,2583,292,2015
+Xiamen University / 厦门大学,www.xmu.edu.cn,23,175,77,743,335,2015
+National Tsing Hua University Taiwan,www.nthu.edu.tw,24,191,239,183,294,2015
+Osaka University / 大阪大学,www.osaka-u.ac.jp,25,192,546,138,99,2015
+Nanyang Technological University,www.ntu.edu.sg,26,193,592,508,53,2015
+Hebrew University of Jerusalem,www.huji.ac.il,27,201,352,452,214,2015
+Tohoku University / 東北大学,www.tohoku.ac.jp,28,203,449,133,108,2015
+Nanjing University / 南京大学,www.nju.edu.cn,29,206,169,1636,146,2015
+Sichuan University / 四川大学,www.scu.edu.cn,30,207,96,3211,227,2015
+(1)  Korea University / 고려대학교,www.korea.ac.kr,31,210,319,483,198,2015
+Harbin Institute of Technology / 哈尔滨工业大学,www.hit.edu.cn,32,219,172,3112,135,2015
+Lanzhou University / 兰州大学,www.lzu.edu.cn,33,227,67,3145,364,2015
+Dalian University of Technology / 大连理工大学,www.dlut.edu.cn,34,230,144,3284,207,2015
+National Central University,www.ncu.edu.tw,35,240,180,463,416,2015
+Nagoya University / 名古屋大学,www.nagoya-u.ac.jp,36,242,464,217,179,2015
+Jilin University / 吉林大学,www.jlu.edu.cn,37,248,273,1136,188,2015
+(1)  Yonsei University / 연세대학교,www.yonsei.ac.kr,38,253,435,748,159,2015
+Hong Kong Polytechnic University,www.polyu.edu.hk,39,266,527,426,153,2015
+Hong Kong University of Science & Technology,www.ust.hk,40,270,388,429,242,2015
+Technion Israel Institute of Technology,www.technion.ac.il,41,277,739,252,238,2015
+Hanyang University / 한양대학교,www.hanyang.ac.kr,42,278,321,410,307,2015
+Kyushu University / 九州大学,www.kyushu-u.ac.jp,43,280,513,195,226,2015
+King Saud University,ksu.edu.sa,44,281,359,190,329,2015
+Central South University (Zhongnan University) / 中南大学,www.csu.edu.cn,45,281,202,3526,273,2015
+Keio University / 慶応義塾大学,www.keio.ac.jp,46,287,261,417,369,2015
+Hokkaido University / 北海道大学,www.hokudai.ac.jp,47,297,525,157,262,2015
+Mahidol University,www.mahidol.ac.th,48,299,277,106,586,2015
+Southeast University China / 东南大学,www.seu.edu.cn,49,301,295,1994,220,2015
+Weizmann Institute of Science,www.weizmann.ac.il,50,307,680,658,264,2015
+University of Tsukuba / 筑波大学,www.tsukuba.ac.jp,51,316,497,223,315,2015
+University of Electronic Science & Technology of China / 电子科技大学,www.uestc.edu.cn,52,325,179,2214,377,2015
+City University of Hong Kong,www.cityu.edu.hk,53,331,672,693,173,2015
+South China University of Technology / 华南理工大学,www.scut.edu.cn,54,343,215,6525,232,2015
+Tokyo Institute of Technology / 東京工業大学,www.titech.ac.jp,55,357,910,432,224,2015
+Nankai University / 南开大学,www.nankai.edu.cn,56,359,328,3100,303,2015
+Tehran University of Medical Sciences,www.tums.ac.ir,57,364,272,601,571,2015
+Shanghai University / 上海大学,www.shu.edu.cn,58,366,234,2521,414,2015
+Kasetsart University,www.ku.ac.th,59,372,183,56,1185,2015
+Hiroshima University / 広島大学,www.hiroshima-u.ac.jp,60,376,633,283,376,2015
+Pohang University of Science & Technology / 포항공과대학교,www.postech.ac.kr,61,379,570,1839,290,2015
+National Taiwan Normal University,www.ntnu.edu.tw,62,380,311,89,882,2015
+Tianjin University / 天津大学,www.tju.edu.cn,63,381,485,2930,311,2015
+China Agricultural University / 中国农业大学,www.cau.edu.cn,64,400,265,4147,468,2015
+(1)  Sungkyunkwan University / 성균관대학교,www.skku.ac.kr,65,403,816,3275,199,2015
+National Chung Cheng University,www.ccu.edu.tw,66,407,151,705,838,2015
+(1)  Kyungpook (Kyungbook) National University / 경북대학교,www.knu.ac.kr,67,409,402,1886,419,2015
+Chongqing University / 重庆大学,www.cqu.edu.cn,68,412,244,5871,373,2015
+Chulalongkorn University,www.chula.ac.th,69,422,548,50,594,2015
+Xidian University / 西安电子科技大学,www.xidian.edu.cn,70,423,278,3666,429,2015
+University of Tehran,www.ut.ac.ir,71,427,683,975,360,2015
+Nanjing University of Aeronautics & Astronautics / 南京航空航天大学,www.nuaa.edu.cn,72,435,347,3001,424,2015
+Istanbul University,www.istanbul.edu.tr,73,439,759,435,638,2015
+National Chengchi University,www.nccu.edu.tw,74,455,166,102,1247,2015
+University of Malaya,www.um.edu.my,75,461,1158,250,380,2015
+Fuzhou University / 福州大学,www.fzu.edu.cn,76,461,237,5659,600,2015
+Khon Kaen University,www.kku.ac.th,77,466,251,194,1016,2015
+Chung Ang University / 중앙대학교,www.cau.ac.kr,78,467,220,4094,696,2015
+Pusan National University (Miryang) / 부산대학교,www.pusan.ac.kr,79,477,468,3347,470,2015
+Tamkang University,www.tku.edu.tw,80,478,370,200,878,2015
+Chiang Mai University,www.cmu.ac.th,81,481,421,11,903,2015
+Kobe University / 神戸大学,www.kobe-u.ac.jp,82,482,1005,253,449,2015
+Jiangnan University (Southern Yangtze University) / 江南大学,www.jiangnan.edu.cn,83,489,327,2095,652,2015
+Middle East Technical University / Orta Doğu Teknik Üniversitesi,www.metu.edu.tr,84,490,902,536,487,2015
+China Medical University Taiwan,www.cmu.edu.tw,85,493,839,577,501,2015
+East China University of Science & Technology / 华东理工大学,www.ecust.edu.cn,86,494,701,3855,342,2015
+(1)  Kyung Hee University / 경희대학교,www.khu.ac.kr,87,498,932,2038,366,2015
+National Sun Yat Sen University,www.nsysu.edu.tw,88,499,827,620,549,2015
+Chonnam National University (Yosu) / 전남대학교,www.jnu.ac.kr,89,510,663,2422,467,2015
+Universiti Teknologi Malaysia,www.utm.my,90,517,1471,164,526,2015
+Soochow University Taiwan,www.scu.edu.tw,91,517,1159,939,339,2015
+Northeastern University China / 东北大学,www.neu.edu.cn,92,519,502,4473,455,2015
+Ben Gurion University of the Negev,www.bgu.ac.il,93,520,1227,373,383,2015
+Universiti Sains Malaysia,www.usm.my,94,522,1090,569,422,2015
+Waseda University / 早稲田大学,www.waseda.jp,95,525,906,500,450,2015
+National Chung Hsing University,www.nchu.edu.tw,96,527,1072,271,510,2015
+South China Normal University / 华南师范大学,www.scnu.edu.cn,97,531,399,3818,670,2015
+Donghua University / 东华大学,www.dhu.edu.cn,98,540,381,4448,589,2015
+Southwest Jiaotong University / 西南交通大学,www.swjtu.edu.cn,99,541,270,5523,670,2015
+Bar Ilan University,www.biu.ac.il,100,545,1147,677,516,2015
+Zhejiang University (National Che Kiang University) / 浙江大学,www.zju.edu.cn,1,34,36,97,41,2016
+Peking University / 北京大学,www.pku.edu.cn,2,38,65,111,23,2016
+Tsinghua University / 清华大学,www.tsinghua.edu.cn,3,42,60,91,19,2016
+University of Tokyo / 東京大学,www.u-tokyo.ac.jp,4,56,104,160,27,2016
+National Taiwan University,www.ntu.edu.tw,5,64,76,170,106,2016
+National University of Singapore,www.nus.edu.sg,6,68,133,35,29,2016
+Shanghai Jiao Tong University / 上海交通大学,www.sjtu.edu.cn,7,70,103,202,61,2016
+Nanyang Technological University,www.ntu.edu.sg,8,72,100,128,47,2016
+(1)  Seoul National University / 서울대학교,www.snu.ac.kr,9,75,143,37,68,2016
+University of Science & Technology of China / 中国科学技术大学,www.ustc.edu.cn,10,76,63,213,109,2016
+Huazhong University of Science & Technology / 华中科技大学,www.hust.edu.cn,11,79,77,184,111,2016
+Shandong University / 山东大学,www.sdu.edu.cn,12,87,51,232,161,2016
+University of Hong Kong,www.hku.hk,13,94,107,99,119,2016
+Jilin University / 吉林大学,www.jlu.edu.cn,14,101,61,320,175,2016
+Kyoto University / 京都大学,www.kyoto-u.ac.jp,15,105,207,123,77,2016
+National Chiao Tung University,www.nctu.edu.tw,16,112,81,157,302,2016
+(1)  Korea Advanced Institute of Science & Technology KAIST,www.kaist.ac.kr,17,121,175,82,164,2016
+Chinese University of Hong Kong,www.cuhk.edu.hk,18,148,233,161,143,2016
+Harbin Institute of Technology / 哈尔滨工业大学,www.hit.edu.cn,19,165,242,223,124,2016
+Southeast University / 东南大学,www.seu.edu.cn,20,191,221,140,184,2016
+(1)  Yonsei University / 연세대학교,www.yonsei.ac.kr,21,193,381,81,153,2016
+Hong Kong Polytechnic University,www.polyu.edu.hk,22,199,289,204,150,2016
+Hebrew University of Jerusalem,www.huji.ac.il,23,204,267,113,238,2016
+National Cheng Kung University,www.ncku.edu.tw,24,209,237,334,278,2016
+University of Electronic Science & Technology of China / 电子科技大学,www.uestc.edu.cn,25,210,120,376,364,2016
+Osaka University / 大阪大学,www.osaka-u.ac.jp,26,212,431,215,113,2016
+Tel Aviv University,www.tau.ac.il,27,216,320,174,163,2016
+Sichuan University / 四川大学,www.scu.edu.cn,28,218,278,333,185,2016
+Hong Kong University of Science & Technology,www.ust.hk,29,231,332,92,236,2016
+City University of Hong Kong,www.cityu.edu.hk,30,239,377,75,167,2016
+(1)  Korea University / 고려대학교,www.korea.ac.kr,31,245,500,60,179,2016
+Beihang University (Beijing University of Aeronautics and Astronautics) / 北京航空航天大学,www.buaa.edu.cn,32,246,210,404,249,2016
+Tohoku University / 東北大学,www.tohoku.ac.jp,33,257,515,398,122,2016
+Northeastern University China / 东北大学,www.neu.edu.cn,34,261,155,389,432,2016
+Nagoya University / 名古屋大学,www.nagoya-u.ac.jp,35,266,415,323,198,2016
+Lanzhou University / 兰州大学,www.lzu.edu.cn,36,278,201,517,365,2016
+Dalian University of Technology / 大连理工大学,www.dlut.edu.cn,37,279,354,335,195,2016
+National Tsing Hua University Taiwan,www.nthu.edu.tw,38,287,367,288,324,2016
+Keio University / 慶応義塾大学,www.keio.ac.jp,39,294,247,681,391,2016
+Shenzhen University / 深圳大学,www.szu.edu.cn,40,296,67,531,852,2016
+Beijing Institute of Technology / 北京理工大学,www.bit.edu.cn,41,300,213,435,375,2016
+Kyushu University / 九州大学,www.kyushu-u.ac.jp,42,308,459,508,248,2016
+Mahidol University,www.mahidol.ac.th,43,310,122,858,663,2016
+Hanyang University / 한양대학교,www.hanyang.ac.kr,44,310,477,382,309,2016
+Hokkaido University / 北海道大学,www.hokudai.ac.jp,45,316,479,434,266,2016
+King Saud University,ksu.edu.sa,46,328,420,830,279,2016
+Weizmann Institute of Science,www.weizmann.ac.il,47,329,552,163,276,2016
+National Central University,www.ncu.edu.tw,48,335,403,218,462,2016
+China University of Geosciences / 中国地质大学,www.cug.edu.cn,49,335,244,582,399,2016
+Tokyo Institute of Technology / 東京工業大学,www.titech.ac.jp,50,342,644,267,247,2016
+Technion Israel Institute of Technology,www.technion.ac.il,51,345,608,284,245,2016
+Kasetsart University,www.ku.ac.th,52,347,45,1680,1182,2016
+South China University of Technology / 华南理工大学,www.scut.edu.cn,53,353,490,378,215,2016
+University of Tsukuba / 筑波大学,www.tsukuba.ac.jp,54,359,418,733,343,2016
+China Agricultural University / 中国农业大学,www.cau.edu.cn,55,366,360,239,418,2016
+(1)  Sungkyunkwan University / 성균관대학교,www.skku.edu,56,374,998,93,186,2016
+Jinan University / 暨南大学,www.jnu.edu.cn,57,379,137,595,752,2016
+Pohang University of Science & Technology / 포항공과대학교,www.postech.ac.kr,58,388,597,301,322,2016
+Soochow University / 苏州大学,www.suda.edu.cn,59,390,578,200,281,2016
+Pusan National University (Miryang) / 부산대학교,www.pusan.ac.kr,60,392,469,88,477,2016
+(1)  Kyungpook (Kyungbook) National University / 경북대학교,www.knu.ac.kr,61,397,442,440,441,2016
+(1)  Kyung Hee University / 경희대학교,www.khu.ac.kr,62,402,617,377,366,2016
+University of Malaya,www.um.edu.my,63,404,631,549,305,2016
+Chulalongkorn University,www.chula.ac.th,64,407,309,766,627,2016
+University of Tehran,ut.ac.ir,65,411,511,791,370,2016
+Tehran University of Medical Sciences,www.tums.ac.ir,66,421,388,623,560,2016
+Nanjing University of Science & Technology / 南京理工大学,www.njust.edu.cn,67,423,371,330,502,2016
+China University of Petroleum / 中国石油大学,www.upc.edu.cn,68,430,283,1151,564,2016
+Shanghai University / 上海大学,www.shu.edu.cn,69,436,618,359,417,2016
+National Taiwan Normal University,www.ntnu.edu.tw,70,442,230,500,941,2016
+East China University of Science & Technology / 华东理工大学,www.ecust.edu.cn,71,446,653,442,337,2016
+Tamkang University,www.tku.edu.tw,72,448,254,599,984,2016
+Hiroshima University / 広島大学,www.hiroshima-u.ac.jp,73,463,654,700,410,2016
+Universiti Sains Malaysia,www.usm.my,74,467,781,400,438,2016
+Nanjing Agricultural University / 南京农业大学,www.njau.edu.cn,75,469,433,304,610,2016
+Fuzhou University / 福州大学,www.fzu.edu.cn,76,484,449,669,582,2016
+Universiti Teknologi Malaysia,www.utm.my,77,490,914,664,427,2016
+Istanbul Technical University / İstanbul Teknik Üniversitesi,www.itu.edu.tr,78,491,543,649,570,2016
+Zhengzhou University / 郑州大学,www.zzu.edu.cn,79,494,325,1127,627,2016
+National Sun Yat Sen University,www.nsysu.edu.tw,80,496,621,625,577,2016
+Kobe University / 神戸大学,www.kobe-u.ac.jp,81,502,765,720,480,2016
+Indian Institute of Science Bangalore,www.iisc.ernet.in,82,503,1045,347,420,2016
+Donghua University / 东华大学,www.dhu.edu.cn,83,508,345,1178,605,2016
+Indian Institute of Technology Bombay,www.iitb.ac.in,84,511,609,468,585,2016
+Hunan University / 湖南大学,www.hnu.edu.cn,85,516,689,467,379,2016
+Waseda University / 早稲田大学,www.waseda.jp,86,531,636,550,489,2016
+University of Science & Technology Beijing / 北京科技大学,www.ustb.edu.cn,87,532,623,982,443,2016
+Ben Gurion University of the Negev,www.bgu.ac.il,88,532,953,593,389,2016
+(1)  Southwest University / 西南大学,www.swu.edu.cn,89,538,520,842,620,2016
+Northwest A & F University / 西北农林科技大学,www.nwsuaf.edu.cn,90,538,430,714,683,2016
+Hong Kong Baptist University,www.hkbu.edu.hk,91,540,717,610,578,2016
+Middle East Technical University / Orta Doğu Teknik Üniversitesi,www.metu.edu.tr,92,548,679,820,509,2016
+National Chung Hsing University,www.nchu.edu.tw,93,549,963,340,593,2016
+Beijing University of Chemical Technology / 北京化工大学 ,www.buct.edu.cn,94,552,697,654,482,2016
+National Yang Ming University,web.ym.edu.tw,95,553,661,872,523,2016
+(1)  Beijing (Northern) Jiaotong University / 北京交通大学,www.bjtu.edu.cn,96,554,871,321,515,2016
+Tunghai University,www.thu.edu.tw,97,555,149,815,1489,2016
+University of Haifa,www.haifa.ac.il,98,555,600,613,686,2016
+Beijing University of Technology (Beijing Polytechnic University) / 北京工业大学 ,www.bjut.edu.cn,99,559,451,446,682,2016
+Beijing University of Posts and Telecommunications / 北京邮电大学,www.bupt.edu.cn,100,562,657,504,506,2016
+University of Tokyo / 東京大学,www.u-tokyo.ac.jp,1,43,61,135,33,2017
+Tsinghua University / 清华大学,www.tsinghua.edu.cn,2,45,95,189,16,2017
+Peking University / 北京大学,www.pku.edu.cn,3,47,86,233,21,2017
+National University of Singapore,www.nus.edu.sg,4,53,107,66,27,2017
+Kyoto University / 京都大学,www.kyoto-u.ac.jp,5,81,106,220,90,2017
+Zhejiang University (National Che Kiang University) / 浙江大学,www.zju.edu.cn,6,84,199,279,43,2017
+(1) Seoul National University / 서울대학교,www.snu.ac.kr,7,85,172,90,69,2017
+National Taiwan University,www.ntu.edu.tw,8,86,113,175,118,2017
+Shanghai Jiao Tong University / 上海交通大学,www.sjtu.edu.cn,9,91,156,406,60,2017
+University of Hong Kong,www.hku.hk,10,94,139,103,97,2017
+Fudan University (Shanghai Medical University) / 复旦大学,www.fudan.edu.cn,11,94,121,317,86,2017
+University of Science & Technology of China / 中国科学技术大学,www.ustc.edu.cn,12,104,128,390,101,2017
+Nanyang Technological University,www.ntu.edu.sg,13,118,356,172,48,2017
+Shandong University / 山东大学,www.sdu.edu.cn,14,137,115,517,158,2017
+Chinese University of Hong Kong,www.cuhk.edu.hk,15,139,194,159,144,2017
+Nanjing University / 南京大学,www.nju.edu.cn,16,150,221,295,111,2017
+Tongji University / 同济大学,www.tongji.edu.cn,17,163,129,601,183,2017
+Osaka University / 大阪大学,www.osaka-u.ac.jp,18,167,246,211,138,2017
+(2) Tel Aviv University,www.tau.ac.il,19,169,263,177,141,2017
+(1) Korea Advanced Institute of Science & Technology KAIST,www.kaist.ac.kr,20,172,209,333,180,2017
+Harbin Institute of Technology / 哈尔滨工业大学,www.hit.edu.cn,21,173,255,275,120,2017
+Wuhan University / 武汉大学,www.whu.edu.cn,22,175,159,466,184,2017
+Sun Yat Sen University (Zhongshan University) / 中山大学,www.sysu.edu.cn,23,181,273,549,125,2017
+Tohoku University / 東北大学,www.tohoku.ac.jp,24,184,282,364,146,2017
+Huazhong University of Science & Technology / 华中科技大学,www.hust.edu.cn,25,189,368,478,98,2017
+Hebrew University of Jerusalem,www.huji.ac.il,26,195,225,124,263,2017
+Hong Kong University of Science & Technology,www.ust.hk,27,198,257,153,225,2017
+City University of Hong Kong,www.cityu.edu.hk,28,202,371,154,167,2017
+Xi'An Jiaotong University / 西安交通大学,www.xjtu.edu.cn,29,202,342,280,162,2017
+Nagoya University / 名古屋大学,www.nagoya-u.ac.jp,30,219,268,316,215,2017
+(1) Yonsei University / 연세대학교,www.yonsei.ac.kr,31,222,415,252,171,2017
+Hong Kong Polytechnic University,www.polyu.edu.hk,32,224,391,221,168,2017
+Beihang University (Beijing University of Aeronautics and Astronautics) / 北京航空航天大学,www.buaa.edu.cn,33,240,223,568,239,2017
+(1) Korea University / 고려대학교,www.korea.ac.kr,34,240,464,104,187,2017
+National Chiao Tung University,www.nctu.edu.tw,35,253,184,359,383,2017
+Sichuan University / 四川大学,www.scu.edu.cn,36,255,378,539,174,2017
+Kyushu University / 九州大学,www.kyushu-u.ac.jp,37,259,348,396,247,2017
+National Cheng Kung University,www.ncku.edu.tw,38,264,262,534,319,2017
+Hokkaido University / 北海道大学,www.hokudai.ac.jp,39,264,285,418,291,2017
+Jilin University / 吉林大学,www.jlu.edu.cn,40,266,528,565,169,2017
+Xiamen University / 厦门大学,www.xmu.edu.cn,41,270,295,594,269,2017
+Keio University / 慶応義塾大学,www.keio.ac.jp,42,271,157,512,401,2017
+Technion Israel Institute of Technology,www.technion.ac.il,43,281,436,230,255,2017
+Dalian University of Technology / 大连理工大学,www.dlut.edu.cn,44,288,366,776,204,2017
+Beijing Normal University / 北京师范大学,www.bnu.edu.cn,45,289,340,500,257,2017
+National Tsing Hua University Taiwan,www.nthu.edu.tw,46,294,264,532,359,2017
+Southeast University / 东南大学,www.seu.edu.cn,47,297,505,511,190,2017
+Tokyo Institute of Technology / 東京工業大学,www.titech.ac.jp,48,301,449,223,271,2017
+Weizmann Institute of Science,www.weizmann.ac.il,49,301,457,108,294,2017
+Central South University (Zhongnan University) / 中南大学,www.csu.edu.cn,50,304,454,785,196,2017
+Lanzhou University / 兰州大学,www.lzu.edu.cn,51,321,242,851,369,2017
+University of Tsukuba / 筑波大学,www.tsukuba.ac.jp,52,323,304,731,361,2017
+Tianjin University / 天津大学,www.tju.edu.cn,53,326,574,501,213,2017
+Chongqing University / 重庆大学,www.cqu.edu.cn,54,362,394,733,331,2017
+China University of Geosciences Wuhan / 中国地质大学,www.cug.edu.cn,55,364,251,1112,380,2017
+Nankai University / 南开大学,www.nankai.edu.cn,56,367,560,702,261,2017
+Soochow University / 苏州大学,www.suda.edu.cn,57,372,731,325,241,2017
+South China University of Technology / 华南理工大学,www.scut.edu.cn,58,376,786,701,189,2017
+Hanyang University / 한양대학교,www.hanyang.ac.kr,59,384,703,438,316,2017
+Shanghai University / 上海大学,www.shu.edu.cn,60,390,420,623,430,2017
+East China Normal University / 华东师范大学,www.ecnu.edu.cn,61,407,458,736,446,2017
+University of Electronic Science & Technology of China / 电子科技大学,www.uestc.edu.cn,62,411,666,628,348,2017
+(1) Sungkyunkwan University / 성균관대학교,www.skku.edu,63,413,1363,303,188,2017
+Hiroshima University / 広島大学,www.hiroshima-u.ac.jp,64,416,497,696,456,2017
+University of Malaya,www.um.edu.my,65,418,1071,551,228,2017
+King Saud University,ksu.edu.sa,66,428,910,1035,254,2017
+Beijing Institute of Technology / 北京理工大学,www.bit.edu.cn,67,430,712,672,359,2017
+National Central University / 國立中央大學,www.ncu.edu.tw,68,432,575,340,508,2017
+Xidian University / 西安电子科技大学,www.xidian.edu.cn,69,438,539,707,435,2017
+Hefei University of Technology / 合肥工业大学,www.hfut.edu.cn,70,438,201,1320,618,2017
+(3) Peking University Health Science Center (Beijing Medical University) / 北京大学医学部,www.bjmu.edu.cn,71,443,546,1289,378,2017
+Beijing University of Chemical Technology / 北京化工大学,www.buct.edu.cn,72,446,501,723,440,2017
+Kobe University / 神戸大学,www.kobe-u.ac.jp,73,449,547,789,471,2017
+Ben Gurion University of the Negev,www.bgu.ac.il,74,450,733,600,400,2017
+Waseda University / 早稲田大学,www.waseda.jp,75,453,550,643,502,2017
+East China University of Science & Technology / 华东理工大学,www.ecust.edu.cn,76,458,811,795,338,2017
+Nanjing University of Aeronautics & Astronautics / 南京航空航天大学,www.nuaa.edu.cn,77,463,633,703,455,2017
+Pohang University of Science & Technology / 포항공과대학교,www.postech.ac.kr,78,463,1024,586,343,2017
+China Agricultural University / 中国农业大学,www.cau.edu.cn,79,463,651,775,418,2017
+National Sun Yat Sen University,www.nsysu.edu.tw,80,474,485,514,644,2017
+Northeast Normal University / 东北师范大学,www.nenu.edu.cn,81,480,195,1755,665,2017
+Nanjing University of Science & Technology / 南京理工大学,www.njust.edu.cn,82,484,571,936,466,2017
+Central China Normal University / 华中师范大学,www.ccnu.edu.cn,83,485,254,1322,672,2017
+Wuhan University of Technology / 武汉理工大学,www.whut.edu.cn,84,489,443,1240,536,2017
+Hong Kong Baptist University,www.hkbu.edu.hk,85,502,591,610,582,2017
+Jinan University / 暨南大学,www.jnu.edu.cn,86,511,278,1693,703,2017
+Tehran University of Medical Sciences,www.tums.ac.ir,87,511,859,442,509,2017
+China University of Petroleum / 中国石油大学,www.upc.edu.cn,88,514,471,1565,497,2017
+China University of Mining & Technology / 中国矿业大学,www.cumt.edu.cn,89,516,579,1541,472,2017
+(1) Kyungpook (Kyungbook) National University / 경북대학교,www.knu.ac.kr,90,517,858,764,451,2017
+Harbin Engineering University / 哈尔滨工程大学,www.hrbeu.edu.cn,91,517,298,1449,664,2017
+University of Tehran,ut.ac.ir,92,532,1297,807,363,2017
+King Abdulaziz University,www.kau.edu.sa,93,534,2180,902,166,2017
+Middle East Technical University / Orta Doğu Teknik Üniversitesi,www.metu.edu.tr,94,534,682,843,554,2017
+Pusan National University (Miryang) / 부산대학교,www.pusan.ac.kr,95,536,981,310,479,2017
+Northeastern University China / 东北大学,www.neu.edu.cn,96,538,775,996,454,2017
+University of Science & Technology Beijing / 北京科技大学,www.ustb.edu.cn,97,541,816,1067,422,2017
+Bar Ilan University,www.biu.ac.il,98,543,945,307,536,2017
+Northwestern Polytechnical University / 西北工业大学,www.nwpu.edu.cn,99,547,972,848,407,2017
+Nanjing Agricultural University / 南京农业大学,www.njau.edu.cn,100,548,717,528,569,2017
+Tsinghua University / 清华大学,www.tsinghua.edu.cn,1,43,79,178,14,2018
+University of Hong Kong,www.hku.hk,2,44,126,93,5,2018
+National University of Singapore,www.nus.edu.sg,3,51,101,67,29,2018
+Peking University / 北京大学,www.pku.edu.cn,4,52,99,258,17,2018
+University of Tokyo / 東京大学,www.u-tokyo.ac.jp,5,58,87,336,40,2018
+Zhejiang University (National Che Kiang University) / 浙江大学,www.zju.edu.cn,6,85,187,245,44,2018
+Shanghai Jiao Tong University / 上海交通大学,www.sjtu.edu.cn,7,87,148,351,38,2018
+National Taiwan University,www.ntu.edu.tw,8,94,130,159,134,2018
+Kyoto University / 京都大学,www.kyoto-u.ac.jp,9,101,144,214,86,2018
+(1) Seoul National University / 서울대학교,www.snu.ac.kr,10,104,246,63,75,2018
+Fudan University (Shanghai Medical University) / 复旦大学,www.fudan.edu.cn,11,115,151,341,81,2018
+Nanyang Technological University,www.ntu.edu.sg,12,118,288,153,49,2018
+University of Science & Technology of China / 中国科学技术大学,www.ustc.edu.cn,13,119,188,287,99,2018
+Chinese University of Hong Kong,www.cuhk.edu.hk,14,132,191,143,132,2018
+(2) Tel Aviv University,www.tau.ac.il,15,141,250,193,133,2018
+Nanjing University / 南京大学,www.nju.edu.cn,16,168,275,276,107,2018
+Osaka University / 大阪大学,www.osaka-u.ac.jp,17,172,301,160,144,2018
+Wuhan University / 武汉大学,www.whu.edu.cn,18,174,206,365,159,2018
+Huazhong University of Science & Technology / 华中科技大学,www.hust.edu.cn,19,177,347,397,82,2018
+Hong Kong University of Science & Technology,www.ust.hk,20,181,212,154,223,2018
+Hebrew University of Jerusalem,www.huji.ac.il,21,192,215,130,274,2018
+(1) Korea Advanced Institute of Science & Technology KAIST,www.kaist.ac.kr,22,194,251,361,199,2018
+Harbin Institute of Technology / 哈尔滨工业大学,www.hit.edu.cn,23,195,372,273,114,2018
+Shandong University / 山东大学,www.sdu.edu.cn,24,197,329,260,145,2018
+City University of Hong Kong,www.cityu.edu.hk,25,200,298,115,176,2018
+Sun Yat Sen University (Zhongshan University) / 中山大学,www.sysu.edu.cn,26,203,348,467,111,2018
+Xi'An Jiaotong University / 西安交通大学,www.xjtu.edu.cn,27,205,350,262,138,2018
+Tohoku University / 東北大学,www.tohoku.ac.jp,28,210,380,335,161,2018
+Hong Kong Polytechnic University,www.polyu.edu.hk,29,225,355,207,172,2018
+Tongji University / 同济大学,www.tongji.edu.cn,30,233,353,558,152,2018
+(1) Yonsei University / 연세대학교,www.yonsei.ac.kr,31,242,497,300,180,2018
+Nagoya University / 名古屋大学,www.nagoya-u.ac.jp,32,244,360,179,227,2018
+Xiamen University / 厦门大学,www.xmu.edu.cn,33,247,287,532,255,2018
+National Chiao Tung University,www.nctu.edu.tw,34,255,196,285,432,2018
+Sichuan University / 四川大学,www.scu.edu.cn,35,257,422,539,155,2018
+Tianjin University / 天津大学,www.tju.edu.cn,36,261,466,421,147,2018
+Technion Israel Institute of Technology,www.technion.ac.il,37,273,377,225,260,2018
+Southeast University / 东南大学,www.seu.edu.cn,38,277,471,389,173,2018
+Beijing Normal University / 北京师范大学,www.bnu.edu.cn,39,278,345,444,236,2018
+National Tsing Hua University Taiwan,www.nthu.edu.tw,40,279,229,509,374,2018
+(1) Korea University / 고려대학교,www.korea.ac.kr,41,281,587,135,189,2018
+Jilin University / 吉林大学,www.jlu.edu.cn,42,286,470,571,165,2018
+National Cheng Kung University,web.ncku.edu.tw,43,288,295,446,371,2018
+Nankai University / 南开大学,www.nankai.edu.cn,44,289,440,420,198,2018
+Kyushu University / 九州大学,www.kyushu-u.ac.jp,45,292,404,383,242,2018
+Beihang University (Beijing University of Aeronautics and Astronautics) / 北京航空航天大学,www.buaa.edu.cn,46,296,425,541,211,2018
+Tokyo Institute of Technology / 東京工業大学,www.titech.ac.jp,47,301,480,95,285,2018
+Weizmann Institute of Science,www.weizmann.ac.il,48,304,420,121,308,2018
+Hokkaido University / 北海道大学,www.hokudai.ac.jp,49,305,368,366,314,2018
+Central South University (Zhongnan University) / 中南大学,www.csu.edu.cn,50,309,550,592,169,2018
+Keio University / 慶応義塾大学,www.keio.ac.jp,51,310,220,637,400,2018
+South China University of Technology / 华南理工大学,www.scut.edu.cn,52,336,654,515,167,2018
+University of Tsukuba / 筑波大学,www.tsukuba.ac.jp,53,337,346,470,364,2018
+Lanzhou University / 兰州大学,www.lzu.edu.cn,54,348,333,615,359,2018
+Dalian University of Technology / 大连理工大学,www.dlut.edu.cn,55,353,530,964,212,2018
+Soochow University / 苏州大学,www.suda.edu.cn,56,357,690,309,218,2018
+Beijing Institute of Technology / 北京理工大学,www.bit.edu.cn,57,382,552,632,326,2018
+Chongqing University / 重庆大学,www.cqu.edu.cn,58,383,601,549,300,2018
+University of Tehran,ut.ac.ir,59,390,729,625,327,2018
+University of Malaya,www.um.edu.my,60,399,1027,404,196,2018
+East China Normal University / 华东师范大学,www.ecnu.edu.cn,61,403,424,694,431,2018
+Hanyang University / 한양대학교,www.hanyang.ac.kr,62,411,790,354,324,2018
+Ben Gurion University of the Negev,www.bgu.ac.il,63,416,564,528,399,2018
+King Saud University,ksu.edu.sa,64,420,863,835,244,2018
+China Agricultural University / 中国农业大学,www.cau.edu.cn,65,430,565,685,397,2018
+Hiroshima University / 広島大学,www.hiroshima-u.ac.jp,66,442,539,711,482,2018
+(1) Sungkyunkwan University / 성균관대학교,www.skku.edu,67,443,1418,316,192,2018
+Shanghai University / 上海大学,www.shu.edu.cn,68,445,647,535,411,2018
+East China University of Science & Technology / 华东理工大学,www.ecust.edu.cn,69,446,751,590,358,2018
+China University of Geosciences / 中国地质大学,www.cug.edu.cn,70,450,670,995,352,2018
+Pohang University of Science & Technology / 포항공과대학교,www.postech.ac.kr,71,451,793,557,377,2018
+(1) University of Chinese Academy of Sciences / 中国科学院大学,www.ucas.ac.cn,72,452,2465,1034,45,2018
+Northwestern Polytechnical University / 西北工业大学,www.nwpu.edu.cn,73,456,730,812,369,2018
+Xidian University / 西安电子科技大学,www.xidian.edu.cn,74,459,650,712,414,2018
+Waseda University / 早稲田大学,www.waseda.jp,75,460,559,552,517,2018
+Kobe University / 神戸大学,www.kobe-u.ac.jp,76,461,612,650,469,2018
+Hong Kong Baptist University,www.hkbu.edu.hk,77,461,432,624,585,2018
+University of Science & Technology Beijing / 北京科技大学,www.ustb.edu.cn,78,465,679,918,394,2018
+National Central University / 國立中央大學,www.ncu.edu.tw,79,468,598,373,552,2018
+National Sun Yat Sen University,www.nsysu.edu.tw,80,474,430,491,701,2018
+Nanjing University of Aeronautics & Astronautics / 南京航空航天大学,www.nuaa.edu.cn,81,480,683,705,428,2018
+King Abdulaziz University,www.kau.edu.sa,82,484,1960,702,122,2018
+Middle East Technical University / Orta Doğu Teknik Üniversitesi,www.metu.edu.tr,83,494,475,900,578,2018
+Indian Institute of Technology Bombay,www.iitb.ac.in,84,502,642,428,562,2018
+Northeastern University China / 东北大学,www.neu.edu.cn,85,510,731,866,436,2018
+National Yang Ming University,web.ym.edu.tw,86,514,576,857,555,2018
+(1) Kyungpook (Kyungbook) National University / 경북대학교,www.knu.ac.kr,87,515,1013,223,453,2018
+Chulalongkorn University,www.chula.ac.th,88,517,553,827,612,2018
+Beijing University of Chemical Technology / 北京化工大学,www.buct.edu.cn,89,521,764,703,438,2018
+Pusan National University (Miryang) / 부산대학교,www.pusan.ac.kr,90,522,778,546,483,2018
+Bar Ilan University,www.biu.ac.il,91,526,840,330,531,2018
+King Abdullah University of Science & Technology,www.kaust.edu.sa,92,528,1536,187,333,2018
+Nanjing Agricultural University / 南京农业大学,www.njau.edu.cn,93,530,765,430,520,2018
+(3) Peking University Health Science Center (Beijing Medical University) / 北京大学医学部,www.bjmu.edu.cn,94,532,960,1221,357,2018
+Renmin University of China / 中国人民大学,www.ruc.edu.cn,95,535,326,1195,802,2018
+Hefei University of Technology / 合肥工业大学,www.hfut.edu.cn,96,541,537,1345,567,2018
+Universiti Teknologi Malaysia,www.utm.my,97,543,1196,683,387,2018
+Nanjing University of Science & Technology / 南京理工大学,www.njust.edu.cn,98,545,875,871,420,2018
+Zhengzhou University / 郑州大学,www.zzu.edu.cn,99,549,699,1010,514,2018
+China University of Mining & Technology / 中国矿业大学,www.cumt.edu.cn,100,554,804,1255,441,2018
+Tsinghua University / 清华大学,www.tsinghua.edu.cn,1,33,96,111,9,2019
+University of Hong Kong,www.hku.hk,2,45,135,92,4,2019
+National University of Singapore,www.nus.edu.sg,3,50,92,71,29,2019
+Peking University / 北京大学,www.pku.edu.cn,4,57,116,198,16,2019
+University of Tokyo / 東京大学,www.u-tokyo.ac.jp,5,69,102,251,44,2019
+Shanghai Jiao Tong University / 上海交通大学,www.sjtu.edu.cn,6,82,172,275,33,2019
+Zhejiang University (National Che Kiang University) / 浙江大学,www.zju.edu.cn,7,83,186,201,37,2019
+Nanyang Technological University,www.ntu.edu.sg,8,86,241,117,45,2019
+Kyoto University / 京都大学,www.kyoto-u.ac.jp,9,104,161,167,97,2019
+National Taiwan University,www.ntu.edu.tw,10,111,124,213,158,2019
+(1) Seoul National University / 서울대학교,www.snu.ac.kr,11,116,252,83,79,2019
+Chinese University of Hong Kong,www.cuhk.edu.hk,12,121,170,97,128,2019
+Fudan University (Shanghai Medical University) / 复旦大学,www.fudan.edu.cn,13,129,175,353,83,2019
+University of Science & Technology of China / 中国科学技术大学,www.ustc.edu.cn,14,134,216,254,82,2019
+(2) Tel Aviv University,www.tau.ac.il,15,157,242,126,148,2019
+Nanjing University / 南京大学,www.nju.edu.cn,16,163,276,334,95,2019
+Wuhan University / 武汉大学,www.whu.edu.cn,17,166,222,440,132,2019
+Hong Kong University of Science & Technology,www.ust.hk,18,183,240,156,213,2019
+Osaka University / 大阪大学,www.osaka-u.ac.jp,19,184,311,207,164,2019
+Shandong University / 山东大学,www.sdu.edu.cn,20,191,298,498,141,2019
+Hebrew University of Jerusalem,www.huji.ac.il,21,193,219,98,298,2019
+Huazhong University of Science & Technology / 华中科技大学,www.hust.edu.cn,22,195,391,359,70,2019
+(1) Korea Advanced Institute of Science & Technology KAIST,www.kaist.ac.kr,23,198,260,234,219,2019
+Harbin Institute of Technology / 哈尔滨工业大学,www.hit.edu.cn,24,201,417,343,92,2019
+Xi'An Jiaotong University / 西安交通大学,www.xjtu.edu.cn,25,202,403,323,119,2019
+Hong Kong Polytechnic University,www.polyu.edu.hk,26,203,333,199,160,2019
+City University of Hong Kong,www.cityu.edu.hk,27,233,281,758,167,2019
+Sun Yat Sen University (Zhongshan University) / 中山大学,www.sysu.edu.cn,28,237,466,423,108,2019
+Tohoku University / 東北大学,www.tohoku.ac.jp,29,238,408,212,182,2019
+Xiamen University / 厦门大学,www.xmu.edu.cn,30,248,295,588,252,2019
+Nagoya University / 名古屋大学,www.nagoya-u.ac.jp,31,257,389,203,233,2019
+Tongji University / 同济大学,www.tongji.edu.cn,32,258,459,537,139,2019
+Technion Israel Institute of Technology,www.technion.ac.il,33,270,376,190,270,2019
+Nankai University / 南开大学,www.nankai.edu.cn,34,283,474,497,180,2019
+Tianjin University / 天津大学,www.tju.edu.cn,35,285,568,534,118,2019
+Sichuan University / 四川大学,www.scu.edu.cn,36,286,490,737,146,2019
+Beihang University (Beijing University of Aeronautics and Astronautics) / 北京航空航天大学,www.buaa.edu.cn,37,286,472,634,166,2019
+Beijing Normal University / 北京师范大学,www.bnu.edu.cn,38,289,377,630,217,2019
+Jilin University / 吉林大学,www.jlu.edu.cn,39,294,498,679,156,2019
+Weizmann Institute of Science,www.weizmann.ac.il,40,295,415,110,321,2019
+Southeast University / 东南大学,www.seu.edu.cn,41,296,610,431,152,2019
+(1) Korea University / 고려대학교,www.korea.ac.kr,42,302,632,223,192,2019
+(1) Yonsei University / 연세대학교,www.yonsei.ac.kr,43,304,672,322,184,2019
+Kyushu University / 九州大学,www.kyushu-u.ac.jp,44,309,442,386,262,2019
+Hokkaido University / 北海道大学,www.hokudai.ac.jp,45,312,387,321,329,2019
+Central South University (Zhongnan University) / 中南大学,www.csu.edu.cn,46,320,677,672,135,2019
+National Tsing Hua University Taiwan,www.nthu.edu.tw,47,330,353,396,400,2019
+Keio University / 慶応義塾大学,www.keio.ac.jp,48,332,245,653,442,2019
+National Cheng Kung University,web.ncku.edu.tw,49,336,354,369,420,2019
+Tokyo Institute of Technology / 東京工業大学,www.titech.ac.jp,50,338,505,267,307,2019
+South China University of Technology / 华南理工大学,www.scut.edu.cn,51,349,802,613,143,2019
+National Chiao Tung University,www.nctu.edu.tw,52,350,293,416,509,2019
+University of Malaya,www.um.edu.my,53,352,867,500,178,2019
+University of Tsukuba / 筑波大学,www.tsukuba.ac.jp,54,354,418,464,373,2019
+Dalian University of Technology / 大连理工大学,www.dlut.edu.cn,55,355,670,708,200,2019
+Beijing Institute of Technology / 北京理工大学,www.bit.edu.cn,56,371,553,658,267,2019
+Soochow University / 苏州大学,www.suda.edu.cn,57,377,839,467,195,2019
+Lanzhou University / 兰州大学,www.lzu.edu.cn,58,391,450,803,361,2019
+Hanyang University / 한양대학교,www.hanyang.ac.kr,59,397,779,352,310,2019
+Ben Gurion University of the Negev,www.bgu.ac.il,60,398,549,351,425,2019
+Chongqing University / 重庆大学,www.cqu.edu.cn,61,403,723,832,251,2019
+King Saud University,ksu.edu.sa,62,415,1001,572,232,2019
+University of Tehran,ut.ac.ir,63,417,925,573,284,2019
+(1) University of Chinese Academy of Sciences / 中国科学院大学,www.ucas.ac.cn,64,421,2252,1241,26,2019
+Northwestern Polytechnical University / 西北工业大学,www.nwpu.edu.cn,65,428,738,790,289,2019
+King Abdulaziz University,www.kau.edu.sa,66,437,1803,659,102,2019
+(1) Sungkyunkwan University / 성균관대학교,www.skku.edu,67,454,1593,240,202,2019
+Shanghai University / 上海大学,www.shu.edu.cn,68,456,619,666,413,2019
+China Agricultural University / 中国农业大学,www.cau.edu.cn,69,462,688,763,381,2019
+Beijing University of Chemical Technology / 北京化工大学,www.buct.edu.cn,70,465,617,886,398,2019
+University of Science & Technology Beijing / 北京科技大学,www.ustb.edu.cn,71,466,694,866,354,2019
+Indian Institute of Technology Bombay,www.iitb.ac.in,72,471,588,409,549,2019
+China University of Geosciences / 中国地质大学,www.cug.edu.cn,73,471,843,988,293,2019
+Middle East Technical University / Orta Doğu Teknik Üniversitesi,www.metu.edu.tr,74,475,477,636,591,2019
+Kobe University / 神戸大学,www.kobe-u.ac.jp,75,476,640,526,493,2019
+Pohang University of Science & Technology / 포항공과대학교,www.postech.ac.kr,76,479,908,403,385,2019
+Hong Kong Baptist University,www.hkbu.edu.hk,77,479,461,612,593,2019
+Xidian University / 西安电子科技大学,www.xidian.edu.cn,78,481,715,894,377,2019
+Hiroshima University / 広島大学,www.hiroshima-u.ac.jp,79,482,560,597,548,2019
+Waseda University / 早稲田大学,www.waseda.jp,80,485,589,535,534,2019
+King Abdullah University of Science & Technology,www.kaust.edu.sa,81,494,1307,189,296,2019
+Renmin University of China / 中国人民大学,www.ruc.edu.cn,82,503,269,1217,749,2019
+Wuhan University of Technology / 武汉理工大学,www.whut.edu.cn,83,507,643,985,434,2019
+Jinan University / 暨南大学,www.jnu.edu.cn,84,509,548,973,526,2019
+Chulalongkorn University,www.chula.ac.th,85,513,575,778,597,2019
+(1) Hunan University / 湖南大学,www.hnu.edu.cn,86,515,1444,695,204,2019
+Kyung Hee University / 경희대학교,www.khu.ac.kr,87,517,1071,522,378,2019
+Northeastern University China / 东北大学,www.neu.edu.cn,88,520,764,1121,380,2019
+National Central University / 國立中央大學,www.ncu.edu.tw,89,522,635,623,599,2019
+Bar Ilan University,www.biu.ac.il,90,529,869,303,544,2019
+Shenzhen University / 深圳大学,www.szu.edu.cn,91,532,828,706,429,2019
+Nanjing University of Science & Technology / 南京理工大学,www.njust.edu.cn,92,534,947,755,374,2019
+Universiti Teknologi Malaysia,www.utm.my,93,538,1410,563,376,2019
+Tehran University of Medical Sciences,www.tums.ac.ir,94,550,1331,441,406,2019
+National Sun Yat Sen University,www.nsysu.edu.tw,95,555,532,752,766,2019
+Zhengzhou University / 郑州大学,www.zzu.edu.cn,96,557,726,1402,461,2019
+Hefei University of Technology / 合肥工业大学,www.hfut.edu.cn,97,560,665,1219,506,2019
+China University of Mining & Technology / 中国矿业大学,www.cumt.edu.cn,98,568,937,1569,363,2019
+Nanjing Agricultural University / 南京农业大学,www.njau.edu.cn,99,571,827,932,497,2019
+National Yang Ming University,web.ym.edu.tw,100,572,630,954,617,2019
+Tsinghua University / 清华大学,www.tsinghua.edu.cn,1,35,92,99,6,2020
+University of Hong Kong,www.hku.hk,2,42,129,81,4,2020
+National University of Singapore,www.nus.edu.sg,3,51,102,65,30,2020
+Peking University / 北京大学,www.pku.edu.cn,4,51,115,185,13,2020
+University of Tokyo / 東京大学,www.u-tokyo.ac.jp,5,65,106,248,48,2020
+Shanghai Jiao Tong University / 上海交通大学,www.sjtu.edu.cn,6,80,172,262,28,2020
+Zhejiang University (National Che Kiang University) / 浙江大学,www.zju.edu.cn,7,81,208,181,33,2020
+Nanyang Technological University,www.ntu.edu.sg,8,92,255,98,49,2020
+Kyoto University / 京都大学,www.kyoto-u.ac.jp,9,97,163,155,98,2020
+Chinese University of Hong Kong,www.cuhk.edu.hk,10,109,159,90,130,2020
+Fudan University (Shanghai Medical University) / 复旦大学,www.fudan.edu.cn,11,118,192,314,84,2020
+(2) Tel Aviv University,www.tau.ac.il,12,123,173,109,144,2020
+National Taiwan University,www.ntu.edu.tw,13,125,138,217,170,2020
+(1) Seoul National University / 서울대학교,www.snu.ac.kr,14,127,305,78,82,2020
+University of Science & Technology of China / 中国科学技术大学,www.ustc.edu.cn,15,131,232,245,72,2020
+Wuhan University / 武汉大学,www.whu.edu.cn,16,166,236,453,122,2020
+Nanjing University / 南京大学,www.nju.edu.cn,17,169,313,320,89,2020
+City University of Hong Kong,www.cityu.edu.hk,18,178,247,169,163,2020
+Hong Kong University of Science & Technology,www.ust.hk,19,194,249,166,213,2020
+Harbin Institute of Technology / 哈尔滨工业大学,www.hit.edu.cn,20,196,470,365,78,2020
+Osaka University / 大阪大学,www.osaka-u.ac.jp,21,200,359,184,167,2020
+Xi'An Jiaotong University / 西安交通大学,www.xjtu.edu.cn,22,205,439,398,102,2020
+Hebrew University of Jerusalem,www.huji.ac.il,23,208,217,87,314,2020
+Huazhong University of Science & Technology / 华中科技大学,www.hust.edu.cn,24,209,426,334,59,2020
+Hong Kong Polytechnic University,www.polyu.edu.hk,25,211,376,197,153,2020
+Shandong University / 山东大学,www.sdu.edu.cn,26,223,364,573,134,2020
+Tohoku University / 東北大学,www.tohoku.ac.jp,27,235,417,193,196,2020
+Sun Yat Sen University (Zhongshan University) / 中山大学,www.sysu.edu.cn,28,246,453,391,93,2020
+Tianjin University / 天津大学,www.tju.edu.cn,29,248,533,482,92,2020
+(1) Korea Advanced Institute of Science & Technology KAIST,www.kaist.ac.kr,30,255,418,201,236,2020
+Nagoya University / 名古屋大学,www.nagoya-u.ac.jp,31,267,416,247,232,2020
+Xiamen University / 厦门大学,www.xmu.edu.cn,32,268,333,588,241,2020
+Southeast University / 东南大学,www.seu.edu.cn,33,270,570,495,135,2020
+Sichuan University / 四川大学,www.scu.edu.cn,34,272,518,688,127,2020
+Tongji University / 同济大学,www.tongji.edu.cn,35,275,434,529,132,2020
+Central South University (Zhongnan University) / 中南大学,www.csu.edu.cn,36,276,625,633,108,2020
+Technion Israel Institute of Technology,www.technion.ac.il,37,280,409,170,274,2020
+Beihang University (Beijing University of Aeronautics and Astronautics) / 北京航空航天大学,www.buaa.edu.cn,38,283,516,619,143,2020
+South China University of Technology / 华南理工大学,www.scut.edu.cn,39,292,615,541,128,2020
+Beijing Normal University / 北京师范大学,www.bnu.edu.cn,40,298,435,634,204,2020
+Nankai University / 南开大学,www.nankai.edu.cn,41,299,527,595,160,2020
+Jilin University / 吉林大学,www.jlu.edu.cn,42,300,564,708,149,2020
+Weizmann Institute of Science,www.weizmann.ac.il,43,302,407,157,338,2020
+Kyushu University / 九州大学,www.kyushu-u.ac.jp,44,310,468,375,265,2020
+Hokkaido University / 北海道大学,www.hokudai.ac.jp,45,315,404,317,339,2020
+(1) Yonsei University / 연세대학교,www.yonsei.ac.kr,46,319,746,270,189,2020
+Keio University / 慶応義塾大学,www.keio.ac.jp,47,328,228,677,450,2020
+Tokyo Institute of Technology / 東京工業大学,www.titech.ac.jp,48,342,524,300,309,2020
+Dalian University of Technology / 大连理工大学,www.dlut.edu.cn,49,345,666,672,185,2020
+University of Tsukuba / 筑波大学,www.tsukuba.ac.jp,50,347,431,447,374,2020
+Soochow University / 苏州大学,www.suda.edu.cn,51,353,774,506,176,2020
+Beijing Institute of Technology / 北京理工大学,www.bit.edu.cn,52,354,581,641,228,2020
+Chongqing University / 重庆大学,www.cqu.edu.cn,53,365,637,789,214,2020
+National Cheng Kung University,web.ncku.edu.tw,54,368,429,401,481,2020
+National Tsing Hua University Taiwan / 國立清華大學,www.nthu.edu.tw,55,368,451,415,423,2020
+University of Malaya,www.um.edu.my,56,375,990,412,179,2020
+National Chiao Tung University,www.nctu.edu.tw,57,380,351,452,550,2020
+Ben Gurion University of the Negev,in.bgu.ac.il,58,393,597,276,425,2020
+Hanyang University / 한양대학교,www.hanyang.ac.kr,59,396,877,343,298,2020
+Lanzhou University / 兰州大学,www.lzu.edu.cn,60,397,497,847,364,2020
+Northwestern Polytechnical University / 西北工业大学,www.nwpu.edu.cn,61,397,787,704,226,2020
+King Saud University,ksu.edu.sa,62,409,1056,443,216,2020
+(1) University of Chinese Academy of Sciences / 中国科学院大学,www.ucas.ac.cn,63,412,2133,1298,17,2020
+(1) Sungkyunkwan University / 성균관대학교,www.skku.edu,64,414,1279,252,202,2020
+University of Tehran,ut.ac.ir,65,418,1085,442,270,2020
+King Abdulaziz University,www.kau.edu.sa,66,434,1976,579,95,2020
+China Agricultural University / 中国农业大学,www.cau.edu.cn,67,435,628,812,375,2020
+Hunan University / 湖南大学,www.hnu.edu.cn,68,438,1173,637,170,2020
+China University of Geosciences / 中国地质大学,www.cug.edu.cn,69,446,870,970,258,2020
+Pohang University of Science & Technology / 포항공과대학교,www.postech.ac.kr,70,455,859,383,411,2020
+University of Science & Technology Beijing / 北京科技大学,www.ustb.edu.cn,71,463,795,917,307,2020
+Xidian University / 西安电子科技大学,www.xidian.edu.cn,72,469,777,822,340,2020
+Hiroshima University / 広島大学,www.hiroshima-u.ac.jp,73,470,589,544,559,2020
+Middle East Technical University / Orta Doğu Teknik Üniversitesi,www.metu.edu.tr,74,473,503,552,607,2020
+Shanghai University / 上海大学,www.shu.edu.cn,75,473,704,757,391,2020
+Waseda University / 早稲田大学,www.waseda.jp,76,475,604,578,546,2020
+King Abdullah University of Science & Technology,www.kaust.edu.sa,77,478,1234,246,289,2020
+Kobe University / 神戸大学,www.kobe-u.ac.jp,78,479,653,583,507,2020
+Shenzhen University / 深圳大学,www.szu.edu.cn,79,487,896,616,341,2020
+Renmin University of China / 中国人民大学,www.ruc.edu.cn,80,500,281,1265,744,2020
+Hong Kong Baptist University,www.hkbu.edu.hk,81,500,500,627,623,2020
+Nanjing University of Aeronautics & Astronautics / 南京航空航天大学,www.nuaa.edu.cn,82,502,820,892,368,2020
+Northeastern University China / 东北大学,www.neu.edu.cn,83,507,813,1153,342,2020
+Nanjing University of Science & Technology / 南京理工大学,www.njust.edu.cn,84,510,1025,700,337,2020
+Jinan University / 暨南大学,www.jnu.edu.cn,85,512,716,860,465,2020
+Bar Ilan University,www.biu.ac.il,86,514,835,305,568,2020
+Indian Institute of Technology Bombay,www.iitb.ac.in,87,514,786,411,553,2020
+Wuhan University of Technology / 武汉理工大学,www.whut.edu.cn,88,519,811,896,390,2020
+Chulalongkorn University,www.chula.ac.th,89,530,754,638,580,2020
+Universiti Teknologi Malaysia,www.utm.my,90,532,1311,435,384,2020
+China University of Mining & Technology / 中国矿业大学,www.cumt.edu.cn,91,536,905,1465,331,2020
+Tehran University of Medical Sciences,www.tums.ac.ir,92,540,1495,345,382,2020
+Pusan National University (Miryang) / 부산대학교,www.pusan.ac.kr,93,542,871,610,530,2020
+Beijing University of Chemical Technology / 北京化工大学,www.buct.edu.cn,94,543,856,1029,392,2020
+National Central University / 國立中央大學,www.ncu.edu.tw,95,544,636,740,626,2020
+Hefei University of Technology / 合肥工业大学,www.hfut.edu.cn,96,548,789,1097,473,2020
+Beijing (Northern) Jiaotong University / 北京交通大学,www.bjtu.edu.cn,97,550,979,926,403,2020
+University of Haifa,www.haifa.ac.il,98,552,711,396,690,2020
+(1) Kyungpook (Kyungbook) National University / 경북대학교,www.knu.ac.kr,99,552,1255,354,441,2020
+National Yang Ming University,web.ym.edu.tw,100,561,506,1099,666,2020

@@ -1,0 +1,901 @@
+﻿Name,Web,Regional_ranking,World_ranking,Impact_score,Openness_score,Excellence_core,Year
+(3) Harvard University,www.harvard.edu,1,1,1,34,1,2012
+Massachusetts Institute of Technology,www.mit.edu,2,2,1,14,10,2012
+Stanford University,www.stanford.edu,3,3,3,8,3,2012
+University of California Berkeley,www.berkeley.edu,4,4,4,18,11,2012
+Cornell University,www.cornell.edu,5,5,8,115,23,2012
+University of Minnesota,www.umn.edu,6,6,20,4,21,2012
+University of Pennsylvania,www.upenn.edu,7,7,14,85,7,2012
+University of Wisconsin Madison,www.wisc.edu,8,8,21,36,19,2012
+(1) University of Illinois Urbana Champaign,www.uiuc.edu,9,9,13,154,29,2012
+Michigan State University,www.msu.edu,10,10,5,79,83,2012
+University of California Los Angeles UCLA,www.ucla.edu,11,11,22,68,2,2012
+Columbia University New York,www.columbia.edu,12,12,18,78,9,2012
+University of Michigan,www.umich.edu,13,13,9,63,5,2012
+University of Texas Austin,www.utexas.edu,14,14,19,27,45,2012
+Yale University,www.yale.edu,15,16,16,246,22,2012
+(3) Pennsylvania State University,www.psu.edu,16,17,6,76,30,2012
+University of Chicago,www.uchicago.edu,17,18,7,181,43,2012
+Carnegie Mellon University,www.cmu.edu,18,19,12,24,120,2012
+University of Florida,www.ufl.edu,19,21,25,44,32,2012
+New York University,www.nyu.edu,20,22,11,103,44,2012
+University of Washington,www.washington.edu,21,23,10,57,230,2012
+(3) California Institute of Technology Caltech,www.caltech.edu,22,24,39,119,39,2012
+University of Pittsburgh,www.pitt.edu,23,26,23,75,16,2012
+University of Southern California,www.usc.edu,24,27,31,32,35,2012
+Duke University,www.duke.edu,25,28,27,158,18,2012
+Purdue University,www.purdue.edu,26,30,28,46,63,2012
+University of North Carolina Chapel Hill,www.unc.edu,27,31,30,161,24,2012
+University of Toronto,www.utoronto.ca,28,32,45,82,6,2012
+North Carolina State University,www.ncsu.edu,29,33,15,178,134,2012
+University of Arizona,www.arizona.edu,30,34,29,138,50,2012
+University of British Columbia,www.ubc.ca,31,35,60,41,26,2012
+Princeton University,www.princeton.edu,32,35,24,118,61,2012
+University of California Davis,www.ucdavis.edu,33,37,38,114,27,2012
+Texas A&M University,www.tamu.edu,34,38,41,61,73,2012
+University of California San Diego,www.ucsd.edu,35,39,49,91,14,2012
+Virginia Polytechnic Institute and State University,www.vt.edu,36,40,17,129,151,2012
+University of Virginia,www.virginia.edu,37,44,32,399,79,2012
+Georgia Institute of Technology,www.gatech.edu,38,45,61,100,59,2012
+University of Georgia,www.uga.edu,39,46,36,239,164,2012
+(1) Indiana University,www.indiana.edu,40,47,33,312,165,2012
+Rutgers University,www.rutgers.edu,41,48,55,147,86,2012
+University of California Santa Barbara,www.ucsb.edu,42,49,52,190,57,2012
+University of California Santa Cruz,www.ucsc.edu,43,50,26,348,135,2012
+University of Colorado Boulder,www.colorado.edu,44,51,48,155,78,2012
+Ohio State University,www.osu.edu,45,52,57,325,34,2012
+(1)(3) Johns Hopkins University,www.jhu.edu,46,53,64,281,4,2012
+(1) University of Maryland,www.umd.edu,47,54,46,73,60,2012
+Northwestern University,www.northwestern.edu,48,55,71,180,25,2012
+Arizona State University,www.asu.edu,49,56,56,131,110,2012
+University of Utah,www.utah.edu,50,59,62,263,75,2012
+Washington University Saint Louis,www.wustl.edu,51,61,79,210,31,2012
+University of California Irvine,www.uci.edu,52,63,66,196,58,2012
+Brown University,www.brown.edu,53,65,54,448,117,2012
+Boston University,www.bu.edu,54,66,58,323,48,2012
+Vanderbilt University,www.vanderbilt.edu,55,67,50,194,51,2012
+Iowa State University,www.iastate.edu,56,68,73,224,138,2012
+University of Alberta,www.ualberta.ca,57,69,135,168,62,2012
+McGill University,www.mcgill.ca,58,74,124,176,46,2012
+University of Rochester,www.rochester.edu,59,79,202,536,96,2012
+Oregon State University,oregonstate.edu,60,82,69,227,222,2012
+University of Iowa,www.uiowa.edu,61,83,68,424,87,2012
+Simon Fraser University,www.sfu.ca,62,87,63,174,275,2012
+Tufts University,www.tufts.edu,63,90,72,819,111,2012
+University at Buffalo,www.buffalo.edu,64,93,53,412,174,2012
+University of New Mexico,www.unm.edu,65,95,130,66,196,2012
+George Mason University,www.gmu.edu,66,105,43,384,417,2012
+University of Oklahoma,www.ou.edu,67,109,78,305,234,2012
+Florida State University,www.fsu.edu,68,111,96,300,184,2012
+University of Kentucky,www.uky.edu,69,114,106,393,152,2012
+University of Calgary,www.ucalgary.ca,70,118,172,347,123,2012
+University of California San Francisco,www.ucsf.edu,71,120,166,912,15,2012
+Emory University,www.emory.edu,72,124,93,551,68,2012
+Colorado State University,www.colostate.edu,73,126,120,254,195,2012
+University of Missouri Columbia,www.missouri.edu,74,126,74,528,202,2012
+Washington State University Pullman,www.wsu.edu,75,133,94,265,323,2012
+University of Massachusetts Amherst,www.umass.edu,76,134,116,293,169,2012
+Rice University,www.rice.edu,77,139,131,578,205,2012
+Montana State University,www.montana.edu,78,140,34,343,562,2012
+Université de Montréal,www.umontreal.ca,79,141,186,250,147,2012
+Dartmouth College,www.dartmouth.edu,80,144,40,662,385,2012
+Université Laval,www.ulaval.ca,81,146,305,70,229,2012
+University of South Florida,www.usf.edu,82,147,84,537,256,2012
+University of Nebraska Lincoln,www.unl.edu,83,150,82,612,284,2012
+University of Connecticut,www.uconn.edu,84,151,95,352,223,2012
+Rensselaer Polytechnic Institute,www.rpi.edu,85,151,127,165,301,2012
+University of Miami,www.miami.edu,86,153,76,670,123,2012
+Brigham Young University,home.byu.edu,87,154,67,530,441,2012
+University of Oregon,www.uoregon.edu,88,158,101,502,380,2012
+York University,www.yorku.ca,89,159,89,456,388,2012
+Louisiana State University,www.lsu.edu,90,160,85,500,245,2012
+McMaster University,www.mcmaster.ca,91,166,204,570,84,2012
+University of North Texas,www.unt.edu,92,168,173,223,640,2012
+University of Notre Dame,www.nd.edu,93,173,126,288,290,2012
+University of Illinois Chicago,www.uic.edu,94,181,196,476,91,2012
+University of Maryland Baltimore County,www.umbc.edu,95,193,47,844,449,2012
+University of California Riverside,www.ucr.edu,96,196,189,638,198,2012
+University of Waterloo,uwaterloo.ca,97,198,155,243,175,2012
+University of Kansas,www.ku.edu,98,204,170,523,212,2012
+Case Western Reserve University,www.case.edu,99,206,114,701,106,2012
+Université d'Ottawa / University of Ottawa,www.uottawa.ca,100,208,268,330,172,2012
+Harvard University,www.harvard.edu,1,1,1,19,1,2013
+Massachusetts Institute of Technology,www.mit.edu,2,2,1,57,13,2013
+Stanford University,www.stanford.edu,3,3,4,11,2,2013
+University of California Berkeley,www.berkeley.edu,4,4,3,18,15,2013
+University of California Los Angeles UCLA,www.ucla.edu,5,5,5,69,3,2013
+University of Washington,www.washington.edu,6,6,6,8,6,2013
+University of Michigan,www.umich.edu,7,7,11,21,5,2013
+Cornell University,www.cornell.edu,8,8,7,10,22,2013
+University of Minnesota,www.umn.edu,9,9,8,23,20,2013
+University of Pennsylvania,www.upenn.edu,10,10,14,67,9,2013
+Columbia University New York,www.columbia.edu,11,11,12,58,10,2013
+(2) Pennsylvania State University,www.psu.edu,12,12,10,12,35,2013
+University of Arizona,www.arizona.edu,13,13,9,33,64,2013
+University of Wisconsin Madison,www.wisc.edu,14,14,19,4,23,2013
+Yale University,www.yale.edu,15,15,17,74,21,2013
+University of British Columbia,www.ubc.ca,16,16,15,62,26,2013
+University of Texas Austin,www.utexas.edu,17,17,13,40,48,2013
+Princeton University,www.princeton.edu,18,19,16,48,72,2013
+Michigan State University,www.msu.edu,19,21,18,26,92,2013
+Purdue University,www.purdue.edu,20,22,20,39,73,2013
+University of Chicago,www.uchicago.edu,21,23,22,143,44,2013
+University of Toronto,www.utoronto.ca,22,24,42,66,7,2013
+University of Florida,www.ufl.edu,23,25,24,36,38,2013
+(1) University of Illinois Urbana Champaign,www.uiuc.edu,24,26,28,158,39,2013
+Duke University,www.duke.edu,25,27,40,118,17,2013
+University of North Carolina Chapel Hill,www.unc.edu,26,28,35,97,28,2013
+Texas A&M University,www.tamu.edu,27,29,23,37,83,2013
+University of California San Diego,www.ucsd.edu,28,30,41,65,14,2013
+New York University,www.nyu.edu,29,32,26,131,46,2013
+(2) Johns Hopkins University,www.jhu.edu,30,33,65,20,4,2013
+Ohio State University,www.osu.edu,31,34,43,63,34,2013
+(1) University of Maryland,www.umd.edu,32,35,36,38,67,2013
+University of Virginia,www.virginia.edu,33,36,30,112,90,2013
+University of Southern California,www.usc.edu,34,37,34,53,47,2013
+Carnegie Mellon University,www.cmu.edu,35,38,27,24,138,2013
+University of Utah,www.utah.edu,36,40,38,22,85,2013
+(2) California Institute of Technology Caltech,www.caltech.edu,37,41,57,50,30,2013
+University of Pittsburgh,www.pitt.edu,38,42,51,140,19,2013
+Arizona State University,www.asu.edu,39,43,33,108,114,2013
+University of California Davis,www.ucdavis.edu,40,44,56,88,29,2013
+Rutgers University,www.rutgers.edu,41,46,46,61,106,2013
+University of California San Francisco,www.ucsf.edu,42,47,109,1,16,2013
+Washington University Saint Louis,www.wustl.edu,43,48,63,162,36,2013
+University of Colorado Boulder,www.colorado.edu,44,49,50,64,84,2013
+Northwestern University,www.northwestern.edu,45,50,77,188,27,2013
+Colorado State University,www.colostate.edu,46,51,29,224,231,2013
+(1) Indiana University,www.indiana.edu,47,53,39,98,182,2013
+University of New Mexico,www.unm.edu,48,55,37,167,206,2013
+Florida State University,www.fsu.edu,49,56,44,86,218,2013
+University of California Irvine,www.uci.edu,50,58,71,177,65,2013
+University of Georgia,www.uga.edu,51,59,45,115,185,2013
+Vanderbilt University,www.vanderbilt.edu,52,60,82,85,61,2013
+Georgia Institute of Technology,www.gatech.edu,53,61,67,72,71,2013
+Boston University,www.bu.edu,54,62,84,206,55,2013
+Virginia Polytechnic Institute and State University,www.vt.edu,55,64,48,102,179,2013
+North Carolina State University,www.ncsu.edu,56,64,49,75,158,2013
+University of California Santa Barbara,www.ucsb.edu,57,68,79,129,89,2013
+Rice University,www.rice.edu,58,71,52,119,207,2013
+McGill University,www.mcgill.ca,59,72,108,138,51,2013
+University of Massachusetts Amherst,www.umass.edu,60,73,55,289,184,2013
+University of Iowa,www.uiowa.edu,61,74,90,54,104,2013
+University of Alberta,www.ualberta.ca,62,77,110,104,69,2013
+Emory University,www.emory.edu,63,78,119,290,52,2013
+University at Buffalo,www.buffalo.edu,64,80,72,175,188,2013
+University of California Santa Cruz,www.ucsc.edu,65,81,68,134,212,2013
+Iowa State University,www.iastate.edu,66,82,88,56,146,2013
+Simon Fraser University,www.sfu.ca,67,83,62,122,272,2013
+Brown University,www.brown.edu,68,85,105,373,116,2013
+Tufts University,www.tufts.edu,69,86,87,433,142,2013
+Oregon State University,oregonstate.edu,70,87,75,83,255,2013
+University of Missouri Columbia,www.missouri.edu,71,95,91,87,234,2013
+University of Kentucky,www.uky.edu,72,97,132,5,166,2013
+University of Calgary,www.ucalgary.ca,73,98,134,214,120,2013
+University of Rochester,www.rochester.edu,74,101,183,17,105,2013
+Tulane University,tulane.edu,75,106,54,1240,368,2013
+University of Tennessee Knoxville,www.utk.edu,76,109,104,200,210,2013
+University of Nebraska Lincoln,www.unl.edu,77,114,80,227,294,2013
+University of Miami,www.miami.edu,78,115,155,117,132,2013
+York University,www.yorku.ca,79,118,74,147,390,2013
+Georgetown University,www.georgetown.edu,80,119,86,528,298,2013
+University of Waterloo,uwaterloo.ca,81,122,135,262,172,2013
+University of Oklahoma,www.ou.edu,82,127,121,190,244,2013
+Dartmouth College,www.dartmouth.edu,83,130,129,369,201,2013
+George Washington University,www.gwu.edu,84,132,89,568,310,2013
+University of South Florida,www.usf.edu,85,135,112,116,269,2013
+University of Kansas,www.ku.edu,86,137,142,260,202,2013
+Washington State University Pullman,www.wsu.edu,87,137,103,178,338,2013
+University of Illinois Chicago,www.uic.edu,88,139,204,297,102,2013
+University of Oregon,www.uoregon.edu,89,140,100,14,405,2013
+University of California Riverside,www.ucr.edu,90,148,176,99,195,2013
+Queen's University Kingston,www.queensu.ca,91,148,128,336,258,2013
+University of Texas Dallas,www.utdallas.edu,92,151,99,658,308,2013
+University of Notre Dame,www.nd.edu,93,156,136,217,299,2013
+George Mason University,www.gmu.edu,94,159,98,193,404,2013
+University of Victoria British Columbia,www.uvic.ca,95,160,117,328,334,2013
+McMaster University,www.mcmaster.ca,96,161,248,397,94,2013
+University of Connecticut,www.uconn.edu,97,165,189,225,175,2013
+University of South Carolina,www.sc.edu,98,166,158,208,278,2013
+Université de Montréal,www.umontreal.ca,99,168,236,239,140,2013
+Brigham Young University,home.byu.edu,100,170,83,269,535,2013
+Harvard University,www.harvard.edu,1,1,1,1,1,2014
+Massachusetts Institute of Technology,www.mit.edu,2,2,1,27,14,2014
+Stanford University,www.stanford.edu,3,3,3,52,3,2014
+Cornell University,www.cornell.edu,4,4,5,67,20,2014
+University of Michigan,www.umich.edu,5,5,7,59,5,2014
+University of California Berkeley,www.berkeley.edu,6,6,4,178,15,2014
+University of Washington,www.washington.edu,7,7,10,113,6,2014
+Columbia University New York,www.columbia.edu,8,7,6,141,12,2014
+University of Minnesota,www.umn.edu,9,9,9,15,23,2014
+University of Pennsylvania,www.upenn.edu,10,10,11,109,9,2014
+University of Texas Austin,www.utexas.edu,11,11,8,43,51,2014
+University of Wisconsin Madison,www.wisc.edu,12,12,18,194,21,2014
+(2) Pennsylvania State University,www.psu.edu,13,13,13,53,36,2014
+University of California Los Angeles UCLA,www.ucla.edu,14,14,17,317,4,2014
+University of Toronto,www.utoronto.ca,15,15,38,51,7,2014
+Yale University,www.yale.edu,16,16,12,343,19,2014
+Purdue University,www.purdue.edu,17,19,16,45,87,2014
+Texas A&M University,www.tamu.edu,18,20,30,41,89,2014
+University of British Columbia,www.ubc.ca,19,21,40,24,24,2014
+University of Illinois Urbana Champaign,illinois.edu,20,22,58,56,43,2014
+Michigan State University,www.msu.edu,21,23,14,339,93,2014
+New York University,www.nyu.edu,22,24,15,344,44,2014
+(2) Johns Hopkins University,www.jhu.edu,23,25,50,631,2,2014
+University of Florida,www.ufl.edu,24,26,26,180,40,2014
+Princeton University,www.princeton.edu,25,27,19,398,76,2014
+Duke University,www.duke.edu,26,30,35,219,17,2014
+University of California San Diego,www.ucsd.edu,27,31,29,451,13,2014
+(2) California Institute of Technology Caltech,www.caltech.edu,28,32,66,125,34,2014
+(1) University of Maryland,www.umd.edu,29,33,37,112,70,2014
+University of North Carolina Chapel Hill,www.unc.edu,30,36,25,511,27,2014
+University of Chicago,www.uchicago.edu,31,39,23,558,46,2014
+University of Pittsburgh,www.pitt.edu,32,40,59,69,28,2014
+Ohio State University,www.osu.edu,33,42,56,132,33,2014
+Carnegie Mellon University,www.cmu.edu,34,43,22,179,160,2014
+University of Arizona,www.arizona.edu,35,44,27,327,69,2014
+University of Virginia,www.virginia.edu,36,46,28,833,95,2014
+Georgia Institute of Technology,www.gatech.edu,37,47,60,94,83,2014
+University of Southern California,www.usc.edu,38,49,24,456,56,2014
+University of California Davis,www.ucdavis.edu,39,50,43,448,29,2014
+Arizona State University,www.asu.edu,40,52,36,257,122,2014
+Virginia Polytechnic Institute and State University,www.vt.edu,41,54,39,97,196,2014
+University of Utah,www.utah.edu,42,55,69,211,91,2014
+(1) Indiana University,www.indiana.edu,43,55,33,297,187,2014
+Northwestern University,www.northwestern.edu,44,57,62,528,26,2014
+University of Georgia,www.uga.edu,45,61,48,114,200,2014
+Washington University Saint Louis,www.wustl.edu,46,63,70,308,38,2014
+Vanderbilt University,www.vanderbilt.edu,47,64,71,378,62,2014
+University of Alberta,www.ualberta.ca,48,66,111,168,66,2014
+North Carolina State University,www.ncsu.edu,49,69,53,193,169,2014
+University of California Irvine,www.uci.edu,50,71,45,604,67,2014
+University of California San Francisco,www.ucsf.edu,51,72,102,1687,16,2014
+Iowa State University,www.iastate.edu,52,74,75,119,165,2014
+University of Colorado Boulder,www.colorado.edu,53,74,49,523,90,2014
+Simon Fraser University,www.sfu.ca,54,76,47,76,281,2014
+McGill University,www.mcgill.ca,55,77,103,502,53,2014
+University of Iowa,www.uiowa.edu,56,78,74,245,106,2014
+University of Massachusetts Amherst,www.umass.edu,57,80,83,182,186,2014
+McMaster University,www.mcmaster.ca,58,81,46,331,105,2014
+Boston University,www.bu.edu,59,83,77,609,57,2014
+University of Rochester,www.rochester.edu,60,84,149,565,111,2014
+Colorado State University,www.colostate.edu,61,85,34,406,245,2014
+University of California Santa Barbara,www.ucsb.edu,62,87,90,567,96,2014
+University of Nebraska Lincoln,www.unl.edu,63,89,78,48,301,2014
+Oregon State University,oregonstate.edu,64,97,82,110,269,2014
+University of Calgary,www.ucalgary.ca,65,105,130,253,125,2014
+Florida State University,www.fsu.edu,66,107,87,256,234,2014
+University of Miami,www.miami.edu,67,109,117,550,139,2014
+Université de Montréal,www.umontreal.ca,68,110,195,68,148,2014
+Emory University,www.emory.edu,69,111,126,772,59,2014
+University at Buffalo,www.buffalo.edu,70,116,113,735,205,2014
+University of Missouri Columbia,www.missouri.edu,71,121,72,1027,254,2014
+University of Kentucky,www.uky.edu,72,124,138,366,173,2014
+Tufts University,www.tufts.edu,73,126,80,1326,157,2014
+Washington State University Pullman,www.wsu.edu,74,127,93,458,365,2014
+Brown University,www.brown.edu,75,128,85,1035,117,2014
+University of South Florida,www.usf.edu,76,129,107,189,290,2014
+University of California Santa Cruz,www.ucsc.edu,77,130,84,830,206,2014
+Rice University,www.rice.edu,78,132,104,490,215,2014
+Université Laval,www.ulaval.ca,79,134,139,266,283,2014
+York University,www.yorku.ca,80,136,99,229,388,2014
+Rutgers The State University of New Jersey,www.rutgers.edu,81,140,31,3914,104,2014
+University of California Riverside,www.ucr.edu,82,144,96,1353,218,2014
+University of Waterloo,uwaterloo.ca,83,150,155,233,184,2014
+University of Oregon,www.uoregon.edu,84,150,88,418,411,2014
+University of Delaware,www.udel.edu,85,152,115,527,308,2014
+Brigham Young University,home.byu.edu,86,160,89,190,563,2014
+University of Kansas,www.ku.edu,87,164,177,326,204,2014
+University of Illinois Chicago,www.uic.edu,88,164,164,520,110,2014
+George Mason University,www.gmu.edu,89,167,92,408,431,2014
+University of South Carolina,www.sc.edu,90,174,132,510,291,2014
+University of Connecticut,www.uconn.edu,91,180,178,372,195,2014
+University of Tennessee Knoxville,www.utk.edu,92,187,98,1126,214,2014
+University of New Mexico,www.unm.edu,93,188,229,285,220,2014
+University of Notre Dame,www.nd.edu,94,189,144,497,304,2014
+Georgetown University,www.georgetown.edu,95,194,79,1002,317,2014
+University of Victoria British Columbia,www.uvic.ca,96,199,181,250,344,2014
+Queen's University Kingston,www.queensu.ca,97,201,174,276,262,2014
+Université d'Ottawa / University of Ottawa,www.uottawa.ca,98,210,299,218,178,2014
+University of Western Ontario,www.uwo.ca,99,211,203,306,168,2014
+University of Oklahoma,www.ou.edu,100,214,159,802,241,2014
+Harvard University,www.harvard.edu,1,1,1,23,1,2015
+Massachusetts Institute of Technology,www.mit.edu,2,2,2,16,9,2015
+Stanford University,www.stanford.edu,3,3,3,14,2,2015
+Cornell University,www.cornell.edu,4,4,6,1,21,2015
+University of California Berkeley,www.berkeley.edu,5,5,4,24,13,2015
+University of Michigan,www.umich.edu,6,6,7,29,4,2015
+Columbia University New York,www.columbia.edu,7,7,5,47,14,2015
+University of Washington,www.washington.edu,8,8,9,25,7,2015
+University of California Los Angeles UCLA,www.ucla.edu,9,9,10,68,6,2015
+University of Wisconsin Madison,www.wisc.edu,10,10,12,15,22,2015
+University of Pennsylvania,www.upenn.edu,11,11,13,136,11,2015
+Yale University,www.yale.edu,12,12,11,120,19,2015
+University of Texas Austin,www.utexas.edu,13,15,8,42,45,2015
+University of Toronto,www.utoronto.ca,14,16,45,22,8,2015
+University of Florida,www.ufl.edu,15,17,17,13,43,2015
+University of California San Diego,www.ucsd.edu,16,18,35,54,15,2015
+Duke University,www.duke.edu,17,19,29,79,18,2015
+Michigan State University,www.msu.edu,18,21,16,21,91,2015
+University of British Columbia,www.ubc.ca,19,22,46,51,23,2015
+University of Chicago,www.uchicago.edu,20,23,24,223,56,2015
+University of North Carolina Chapel Hill,www.unc.edu,21,24,30,122,31,2015
+(2)  Johns Hopkins University,www.jhu.edu,22,25,56,434,3,2015
+University of Illinois Urbana Champaign,illinois.edu,23,26,55,46,39,2015
+University of California Davis,www.ucdavis.edu,24,27,36,113,33,2015
+Princeton University,www.princeton.edu,25,28,20,117,77,2015
+Purdue University,www.purdue.edu,26,29,15,75,84,2015
+New York University,www.nyu.edu,27,30,25,135,47,2015
+University of Southern California,www.usc.edu,28,31,27,94,49,2015
+(1)  University of Maryland,www.umd.edu,29,32,34,80,73,2015
+Texas A&M University,www.tamu.edu,30,33,33,27,88,2015
+University of Arizona,www.arizona.edu,31,35,23,74,80,2015
+University of Virginia,www.virginia.edu,32,36,26,267,101,2015
+Carnegie Mellon University,www.cmu.edu,33,38,31,31,124,2015
+University of California San Francisco,www.ucsf.edu,34,39,136,19,17,2015
+(2)  California Institute of Technology Caltech,www.caltech.edu,35,40,82,44,59,2015
+Ohio State University,www.osu.edu,36,42,75,65,35,2015
+Rutgers The State University of New Jersey,www.rutgers.edu,37,43,32,58,97,2015
+Northwestern University,www.northwestern.edu,38,44,65,239,27,2015
+University of Pittsburgh,www.pitt.edu,39,46,72,102,30,2015
+Vanderbilt University,www.vanderbilt.edu,40,51,54,338,60,2015
+Washington University Saint Louis,www.wustl.edu,41,52,76,124,46,2015
+University of California Irvine,www.uci.edu,42,52,50,197,76,2015
+Arizona State University,www.asu.edu,43,54,42,136,107,2015
+Georgia Institute of Technology,www.gatech.edu,44,55,90,106,68,2015
+University of Colorado Boulder,www.colorado.edu,45,56,53,138,92,2015
+Tufts University,www.tufts.edu,46,59,21,592,176,2015
+Boston University,www.bu.edu,47,60,84,228,62,2015
+University of Utah,www.utah.edu,48,62,69,122,96,2015
+Indiana University Bloomington,www.indiana.edu,49,63,38,131,189,2015
+McGill University,www.mcgill.ca,50,64,125,152,52,2015
+North Carolina State University,www.ncsu.edu,51,68,62,100,157,2015
+University of Alberta,www.ualberta.ca,52,71,130,141,69,2015
+Virginia Polytechnic Institute and State University,www.vt.edu,53,73,68,65,167,2015
+University of California Santa Barbara,www.ucsb.edu,54,76,103,208,90,2015
+University of Iowa,www.uiowa.edu,55,79,95,106,110,2015
+Iowa State University,www.iastate.edu,56,80,89,99,158,2015
+University of Georgia,www.uga.edu,57,81,58,161,210,2015
+Simon Fraser University,www.sfu.ca,58,82,41,170,265,2015
+University of California Santa Cruz,www.ucsc.edu,59,88,61,218,211,2015
+University of Kentucky,www.uky.edu,60,91,121,17,182,2015
+Colorado State University,www.colostate.edu,61,91,40,227,260,2015
+University at Buffalo,www.buffalo.edu,62,96,101,351,194,2015
+Brown University,www.brown.edu,63,99,106,451,123,2015
+Oregon State University,oregonstate.edu,64,100,88,70,275,2015
+University of Rochester,www.rochester.edu,65,101,154,366,121,2015
+University of California Riverside,www.ucr.edu,66,105,132,57,220,2015
+Emory University,www.emory.edu,67,106,141,375,65,2015
+University of Nebraska Lincoln,www.unl.edu,68,108,87,49,306,2015
+University of Calgary,www.ucalgary.ca,69,108,170,152,116,2015
+Florida State University,www.fsu.edu,70,111,105,78,237,2015
+University of Massachusetts Amherst,www.umass.edu,71,113,107,257,179,2015
+University of Missouri Columbia,www.missouri.edu,72,120,86,247,272,2015
+(2)  Pennsylvania State University,www.psu.edu,73,124,14,99999,38,2015
+University of Kansas,www.ku.edu,74,125,159,82,205,2015
+University of South Florida,www.usf.edu,75,126,118,192,269,2015
+Université de Montréal,www.umontreal.ca,76,127,198,176,164,2015
+University of Tennessee Knoxville,www.utk.edu,77,129,114,316,196,2015
+University of Waterloo,uwaterloo.ca,78,134,157,235,156,2015
+York University,www.yorku.ca,79,136,111,39,396,2015
+University of Illinois Chicago,www.uic.edu,80,141,158,290,113,2015
+Rice University,www.rice.edu,81,142,120,287,209,2015
+Washington State University Pullman,www.wsu.edu,82,143,110,255,384,2015
+University of Oklahoma,www.ou.edu,83,147,126,253,257,2015
+University of Oregon,www.uoregon.edu,84,154,115,35,421,2015
+University of New Mexico,www.unm.edu,85,155,175,110,233,2015
+Dartmouth College,www.dartmouth.edu,86,158,142,319,244,2015
+University of Notre Dame,www.nd.edu,87,161,134,163,284,2015
+University of South Carolina,www.sc.edu,88,172,153,235,301,2015
+George Mason University,www.gmu.edu,89,177,98,245,423,2015
+McMaster University,www.mcmaster.ca,90,181,282,299,111,2015
+University of Miami,www.miami.edu,91,182,189,529,147,2015
+Georgetown University,www.georgetown.edu,92,183,104,847,326,2015
+University of Connecticut,www.uconn.edu,93,184,168,238,201,2015
+University of Delaware,www.udel.edu,94,185,133,214,295,2015
+University of Houston,www.uh.edu,95,190,124,261,374,2015
+George Washington University,www.gwu.edu,96,194,109,448,332,2015
+Université d'Ottawa / University of Ottawa,www.uottawa.ca,97,198,325,203,177,2015
+University of Western Ontario,www.uwo.ca,98,202,248,349,170,2015
+University of Victoria British Columbia,www.uvic.ca,99,205,194,384,326,2015
+University of Cincinnati,www.uc.edu,100,212,271,321,168,2015
+Harvard University,www.harvard.edu,1,1,1,1,1,2016
+Massachusetts Institute of Technology,www.mit.edu,2,2,1,6,11,2016
+Stanford University,www.stanford.edu,3,3,3,2,3,2016
+University of California Berkeley,www.berkeley.edu,4,4,4,4,13,2016
+University of Michigan,umich.edu,5,5,7,12,4,2016
+Cornell University,www.cornell.edu,6,6,5,31,21,2016
+University of Washington,www.washington.edu,7,7,8,23,6,2016
+Columbia University New York,www.columbia.edu,8,8,9,10,14,2016
+University of Pennsylvania,www.upenn.edu,9,9,10,43,12,2016
+University of California Los Angeles UCLA,www.ucla.edu,10,11,15,17,7,2016
+Johns Hopkins University,www.jhu.edu,11,12,42,3,2,2016
+Yale University,www.yale.edu,12,13,13,14,20,2016
+University of Wisconsin Madison,www.wisc.edu,13,15,14,52,25,2016
+Michigan State University,msu.edu,14,16,6,8,90,2016
+University of Texas Austin,www.utexas.edu,15,17,12,30,46,2016
+University of Chicago,www.uchicago.edu,16,18,19,5,56,2016
+University of California San Diego,www.ucsd.edu,17,19,33,13,15,2016
+University of Toronto,www.utoronto.ca,18,20,43,24,8,2016
+Pennsylvania State University,www.psu.edu,19,21,17,61,38,2016
+University of Illinois Urbana Champaign,illinois.edu,20,22,25,32,42,2016
+New York University,www.nyu.edu,21,23,22,25,40,2016
+Duke University,duke.edu,22,24,32,16,18,2016
+University of North Carolina Chapel Hill,www.unc.edu,23,25,26,33,31,2016
+Princeton University,www.princeton.edu,24,26,16,19,76,2016
+University of Utah,www.utah.edu,25,28,11,96,95,2016
+University of British Columbia,www.ubc.ca,26,29,46,36,24,2016
+(1)  University of Maryland Baltimore,www.umd.edu,27,30,24,50,69,2016
+University of Florida,www.ufl.edu,28,31,34,41,50,2016
+University of Southern California,www.usc.edu,29,32,31,49,52,2016
+Purdue University,www.purdue.edu,30,33,20,72,83,2016
+California Institute of Technology Caltech,www.caltech.edu,31,35,57,54,36,2016
+University of California Davis,www.ucdavis.edu,32,37,44,57,34,2016
+Northwestern University,www.northwestern.edu,33,39,53,44,28,2016
+Ohio State University,www.osu.edu,34,40,59,27,37,2016
+University of Virginia,www.virginia.edu,35,41,27,87,108,2016
+Carnegie Mellon University,www.cmu.edu,36,43,29,20,128,2016
+University of Pittsburgh,www.pitt.edu,37,43,55,65,35,2016
+University of California Irvine,www.uci.edu,38,45,35,39,84,2016
+Texas A&M University,www.tamu.edu,39,46,41,71,94,2016
+Rutgers The State University of New Jersey,www.rutgers.edu,40,47,40,66,96,2016
+University of Arizona,www.arizona.edu,41,48,37,127,87,2016
+Boston University,www.bu.edu,42,51,71,34,64,2016
+Washington University Saint Louis,wustl.edu,43,52,78,22,49,2016
+Arizona State University,www.asu.edu,44,53,50,26,110,2016
+University of Colorado Boulder,www.colorado.edu,45,54,47,106,89,2016
+Georgia Institute of Technology,www.gatech.edu,46,54,75,29,72,2016
+University of California San Francisco,www.ucsf.edu,47,57,126,53,17,2016
+Vanderbilt University,www.vanderbilt.edu,48,58,83,58,65,2016
+University at Buffalo,www.buffalo.edu,49,59,28,186,208,2016
+Simon Fraser University,www.sfu.ca,50,60,23,102,277,2016
+Indiana University Bloomington,www.indiana.edu,51,60,38,70,183,2016
+McGill University,www.mcgill.ca,52,60,91,51,60,2016
+Virginia Polytechnic Institute and State University,www.vt.edu,53,63,39,178,171,2016
+University of California Santa Barbara,www.ucsb.edu,54,66,73,40,100,2016
+University of Alberta,www.ualberta.ca,55,71,90,108,79,2016
+Tufts University,www.tufts.edu,56,73,58,79,194,2016
+North Carolina State University,www.ncsu.edu,57,77,66,107,170,2016
+Universidad Nacional Autónoma de México,www.unam.mx,58,80,30,367,331,2016
+University of Iowa,www.uiowa.edu,59,81,82,125,114,2016
+Brown University,www.brown.edu,60,84,95,63,116,2016
+University of Rochester,www.rochester.edu,61,85,115,28,130,2016
+Emory University,www.emory.edu,62,92,113,77,67,2016
+University of Georgia,www.uga.edu,63,99,69,133,224,2016
+Rice University,www.rice.edu,64,102,85,46,227,2016
+University of California Santa Cruz,www.ucsc.edu,65,103,74,101,226,2016
+Iowa State University,www.iastate.edu,66,104,94,115,180,2016
+University of Massachusetts Amherst,www.umass.edu,67,106,102,42,191,2016
+University of Waterloo,uwaterloo.ca,68,113,128,171,156,2016
+University of Nebraska Lincoln,www.unl.edu,69,115,68,165,298,2016
+University of Calgary,www.ucalgary.ca,70,117,124,199,129,2016
+University of California Riverside,www.ucr.edu,71,120,112,85,230,2016
+University of Notre Dame,www.nd.edu,72,122,88,73,273,2016
+University of Kentucky,www.uky.edu,73,123,105,266,222,2016
+City University of New York,www.cuny.edu,74,124,64,189,357,2016
+Oregon State University,oregonstate.edu,75,127,87,210,270,2016
+Colorado State University,www.colostate.edu,76,132,101,146,264,2016
+University of Illinois Chicago,www.uic.edu,77,132,147,129,147,2016
+George Washington University,www.gwu.edu,78,135,72,196,306,2016
+Georgetown University,www.georgetown.edu,79,137,79,208,340,2016
+University of Tennessee Knoxville,www.utk.edu,80,138,114,225,201,2016
+University of Miami,www.miami.edu,81,138,179,112,154,2016
+McMaster University,www.mcmaster.ca,82,140,249,15,135,2016
+University of South Florida,www.usf.edu,83,141,109,134,274,2016
+University of Delaware,www.udel.edu,84,141,93,192,293,2016
+Université de Montréal,www.umontreal.ca,85,144,164,103,207,2016
+University of Connecticut,uconn.edu,86,147,138,119,202,2016
+University of Kansas,www.ku.edu,87,152,150,234,193,2016
+Dartmouth College,dartmouth.edu,88,153,116,122,256,2016
+University of Missouri Columbia,missouri.edu,89,155,106,259,283,2016
+Washington State University Pullman,wsu.edu,90,156,86,286,394,2016
+Case Western Reserve University,www.case.edu,91,164,216,132,152,2016
+Temple University,www.temple.edu,92,165,202,18,251,2016
+George Mason University,www.gmu.edu,93,169,70,338,473,2016
+University of Oregon,uoregon.edu,94,173,97,281,429,2016
+University of New Mexico,www.unm.edu,95,175,182,190,232,2016
+University of Cincinnati,www.uc.edu,96,179,223,147,187,2016
+University of Oklahoma,www.ou.edu,97,189,139,353,267,2016
+University of South Carolina,www.sc.edu,98,192,160,289,287,2016
+York University,www.yorku.ca,99,195,125,272,397,2016
+University of Western Ontario,www.uwo.ca,100,196,236,162,203,2016
+Harvard University,www.harvard.edu,1,1,2,1,1,2017
+Stanford University,www.stanford.edu,2,2,3,2,2,2017
+Massachusetts Institute of Technology,www.mit.edu,3,3,1,5,11,2017
+University of California Berkeley,www.berkeley.edu,4,4,4,4,14,2017
+University of Michigan,umich.edu,5,5,7,14,3,2017
+University of Washington,www.washington.edu,6,6,6,21,6,2017
+Cornell University,www.cornell.edu,7,8,5,35,22,2017
+Columbia University New York,www.columbia.edu,8,9,8,12,12,2017
+University of California Los Angeles UCLA,www.ucla.edu,9,11,15,22,9,2017
+University of Pennsylvania,www.upenn.edu,10,12,11,37,13,2017
+Yale University,www.yale.edu,11,13,14,17,19,2017
+(2) Johns Hopkins University,www.jhu.edu,12,14,38,3,5,2017
+University of Wisconsin Madison,www.wisc.edu,13,15,12,54,25,2017
+University of California San Diego,www.ucsd.edu,14,15,25,16,15,2017
+(2) Pennsylvania State University,www.psu.edu,15,17,13,72,41,2017
+University of Toronto,www.utoronto.ca,16,18,36,27,8,2017
+Duke University,duke.edu,17,20,30,20,18,2017
+University of Texas Austin,www.utexas.edu,18,21,10,38,49,2017
+University of Chicago,www.uchicago.edu,19,22,19,6,58,2017
+Princeton University,www.princeton.edu,20,23,9,9,77,2017
+New York University,www.nyu.edu,21,24,24,29,38,2017
+University of North Carolina Chapel Hill,www.unc.edu,22,25,27,40,31,2017
+University of Illinois Urbana Champaign,illinois.edu,23,26,21,43,46,2017
+University of British Columbia,www.ubc.ca,24,27,39,51,23,2017
+University of Southern California,www.usc.edu,25,28,26,48,55,2017
+University of Florida,www.ufl.edu,26,29,29,53,54,2017
+University of California Davis,www.ucdavis.edu,27,30,35,56,40,2017
+Northwestern University,www.northwestern.edu,28,31,48,32,29,2017
+(1) University of Maryland College Park,www.umd.edu,29,32,20,60,71,2017
+Ohio State University,www.osu.edu,30,33,45,33,36,2017
+Carnegie Mellon University,www.cmu.edu,31,35,18,26,112,2017
+University of California Irvine,www.uci.edu,32,36,23,39,82,2017
+Michigan State University,msu.edu,33,37,28,18,88,2017
+Washington University Saint Louis,wustl.edu,34,38,49,28,53,2017
+University of Pittsburgh,www.pitt.edu,35,39,55,71,39,2017
+(2) California Institute of Technology Caltech,www.caltech.edu,36,40,43,64,66,2017
+Purdue University,www.purdue.edu,37,41,22,99,89,2017
+Boston University,www.bu.edu,38,44,53,24,67,2017
+University of California San Francisco,www.ucsf.edu,39,46,104,42,20,2017
+Rutgers The State University of New Jersey,www.rutgers.edu,40,48,33,95,95,2017
+University of Arizona,www.arizona.edu,41,49,34,120,83,2017
+Georgia Institute of Technology,www.gatech.edu,42,50,56,49,70,2017
+University of Colorado Boulder,www.colorado.edu,43,51,37,87,87,2017
+McGill University,www.mcgill.ca,44,52,58,50,59,2017
+University of Virginia,www.virginia.edu,45,54,32,105,116,2017
+Arizona State University,www.asu.edu,46,55,40,30,117,2017
+Texas A&M University,www.tamu.edu,47,57,42,80,103,2017
+Vanderbilt University,www.vanderbilt.edu,48,58,70,63,61,2017
+University of Alberta,www.ualberta.ca,49,60,60,68,74,2017
+University of Utah,www.utah.edu,50,61,51,100,94,2017
+University of California Santa Barbara,www.ucsb.edu,51,62,52,46,113,2017
+Indiana University Bloomington,www.indiana.edu,52,67,31,84,193,2017
+Emory University,www.emory.edu,53,68,88,91,65,2017
+Brown University,www.brown.edu,54,73,67,76,124,2017
+University of Iowa,uiowa.edu,55,75,63,141,122,2017
+North Carolina State University,www.ncsu.edu,56,77,46,168,176,2017
+Virginia Polytechnic Institute and State University,www.vt.edu,57,79,50,143,180,2017
+University of Rochester,www.rochester.edu,58,82,87,25,143,2017
+Tufts University,www.tufts.edu,59,83,57,81,209,2017
+University of Waterloo,uwaterloo.ca,60,90,75,174,164,2017
+University of Massachusetts Amherst,www.umass.edu,61,93,79,41,199,2017
+Iowa State University,www.iastate.edu,62,98,72,210,192,2017
+University of Calgary,www.ucalgary.ca,63,99,101,214,133,2017
+Rice University,www.rice.edu,64,100,71,45,246,2017
+University of Illinois Chicago,www.uic.edu,65,101,102,178,154,2017
+University of Georgia,www.uga.edu,66,102,59,173,240,2017
+University at Buffalo,www.buffalo.edu,67,110,81,207,217,2017
+University of Delaware,www.udel.edu,68,111,47,245,321,2017
+University of Tennessee Knoxville,www.utk.edu,69,113,96,164,202,2017
+City University of New York,www.cuny.edu,70,113,68,171,266,2017
+Oregon State University,oregonstate.edu,71,117,66,183,270,2017
+Simon Fraser University,www.sfu.ca,72,119,64,109,299,2017
+Florida State University,www.fsu.edu,73,120,76,151,259,2017
+Colorado State University,www.colostate.edu,74,122,62,181,278,2017
+University of California Santa Cruz,www.ucsc.edu,75,124,91,115,235,2017
+University of California Riverside,www.ucr.edu,76,126,90,123,249,2017
+McMaster University,www.mcmaster.ca,77,129,172,34,155,2017
+Dartmouth College,dartmouth.edu,78,130,84,131,262,2017
+University of Kentucky,www.uky.edu,79,131,97,246,227,2017
+University of Notre Dame,www.nd.edu,80,131,83,75,298,2017
+University of Nebraska Lincoln,www.unl.edu,81,133,65,248,306,2017
+University of Miami,www.miami.edu,82,134,138,125,163,2017
+(2) Universidad Nacional Autónoma de México,www.unam.mx,83,141,82,371,337,2017
+University of Connecticut,uconn.edu,84,143,112,205,218,2017
+George Washington University,www.gwu.edu,85,144,78,165,303,2017
+Case Western Reserve University,case.edu,86,147,158,152,160,2017
+University of South Florida,www.usf.edu,87,148,94,231,285,2017
+University of Cincinnati,www.uc.edu,88,152,140,116,200,2017
+Georgetown University,www.georgetown.edu,89,154,69,194,367,2017
+University of Western Ontario / Western University,www.uwo.ca,90,155,180,156,175,2017
+University of New Mexico,www.unm.edu,91,158,127,180,248,2017
+University of Kansas,www.ku.edu,92,159,131,282,212,2017
+University of Missouri Columbia,missouri.edu,93,162,98,227,304,2017
+University of Oregon,uoregon.edu,94,165,77,31,423,2017
+Université de Montréal,www.umontreal.ca,95,166,175,106,210,2017
+Temple University,www.temple.edu,96,171,165,23,250,2017
+Université d'Ottawa / University of Ottawa,www.uottawa.ca,97,176,203,89,206,2017
+Washington State University Pullman,wsu.edu,98,179,74,306,397,2017
+Wayne State University,wayne.edu,99,186,177,356,219,2017
+University of Houston,www.uh.edu,100,187,114,121,372,2017
+Harvard University,www.harvard.edu,1,1,2,1,1,2018
+Stanford University,www.stanford.edu,2,2,3,2,2,2018
+Massachusetts Institute of Technology,www.mit.edu,3,3,1,4,11,2018
+University of California Berkeley,www.berkeley.edu,4,4,4,3,16,2018
+University of Michigan,umich.edu,5,5,8,9,4,2018
+University of Washington,www.washington.edu,6,6,5,46,7,2018
+Cornell University,www.cornell.edu,7,8,6,37,22,2018
+Columbia University New York,www.columbia.edu,8,9,9,15,13,2018
+University of Pennsylvania,www.upenn.edu,9,11,10,35,15,2018
+University of California Los Angeles UCLA,www.ucla.edu,10,12,16,23,12,2018
+(2) Johns Hopkins University,www.jhu.edu,11,13,37,29,6,2018
+University of California San Diego,www.ucsd.edu,12,14,28,5,18,2018
+University of Wisconsin Madison,www.wisc.edu,13,15,11,47,31,2018
+Yale University,www.yale.edu,14,16,13,16,20,2018
+(2) Pennsylvania State University,www.psu.edu,15,17,12,72,46,2018
+University of Texas Austin,www.utexas.edu,16,19,15,38,51,2018
+Princeton University,www.princeton.edu,17,20,7,13,79,2018
+University of Toronto,www.utoronto.ca,18,21,31,56,9,2018
+Duke University,duke.edu,19,22,30,14,21,2018
+University of North Carolina Chapel Hill,www.unc.edu,20,23,27,39,34,2018
+New York University,www.nyu.edu,21,24,22,33,37,2018
+University of Illinois Urbana Champaign,illinois.edu,22,25,23,99,53,2018
+University of Chicago,www.uchicago.edu,23,26,20,12,59,2018
+University of Southern California,www.usc.edu,24,28,21,50,60,2018
+Northwestern University,www.northwestern.edu,25,29,44,26,33,2018
+University of British Columbia,www.ubc.ca,26,30,39,51,28,2018
+University of Maryland College Park,www.umd.edu,27,31,25,75,70,2018
+Ohio State University,www.osu.edu,28,31,49,69,35,2018
+Carnegie Mellon University,www.cmu.edu,29,33,18,25,115,2018
+(2) California Institute of Technology Caltech,www.caltech.edu,30,34,46,45,43,2018
+University of Florida,www.ufl.edu,31,35,29,59,62,2018
+Michigan State University,msu.edu,32,36,26,20,97,2018
+University of California Davis,www.ucdavis.edu,33,37,34,65,48,2018
+University of Pittsburgh,www.pitt.edu,34,38,51,82,47,2018
+Purdue University,www.purdue.edu,35,39,24,83,95,2018
+University of California Irvine,uci.edu,36,40,19,31,91,2018
+Boston University,www.bu.edu,37,41,48,7,71,2018
+University of Colorado Boulder,www.colorado.edu,38,45,38,85,88,2018
+Georgia Institute of Technology,www.gatech.edu,39,46,56,27,72,2018
+Rutgers The State University of New Jersey,www.rutgers.edu,40,47,35,84,92,2018
+Washington University Saint Louis,wustl.edu,41,48,53,24,61,2018
+University of California San Francisco,www.ucsf.edu,42,49,90,55,24,2018
+Arizona State University,www.asu.edu,43,49,40,19,116,2018
+University of Arizona,www.arizona.edu,44,53,36,136,90,2018
+University of Virginia,www.virginia.edu,45,53,32,111,120,2018
+University of California Santa Barbara,www.ucsb.edu,46,55,52,54,126,2018
+McGill University,www.mcgill.ca,47,56,64,41,58,2018
+Texas A&M University,www.tamu.edu,48,57,43,88,112,2018
+University of Utah,www.utah.edu,49,62,54,102,101,2018
+Vanderbilt University,www.vanderbilt.edu,50,63,69,61,65,2018
+University of Alberta,www.ualberta.ca,51,64,70,34,74,2018
+Emory University,www.emory.edu,52,68,92,70,67,2018
+Indiana University Bloomington,www.indiana.edu,53,69,33,66,207,2018
+North Carolina State University,www.ncsu.edu,54,75,50,181,179,2018
+University of Iowa,uiowa.edu,55,77,63,120,122,2018
+Brown University,www.brown.edu,56,81,66,48,128,2018
+Virginia Polytechnic Institute and State University,vt.edu,57,82,57,144,184,2018
+Tufts University,www.tufts.edu,58,84,47,53,230,2018
+University of Massachusetts Amherst,www.umass.edu,59,88,78,40,201,2018
+University of Rochester,www.rochester.edu,60,92,85,42,156,2018
+City University of New York,www.cuny.edu,61,96,61,107,244,2018
+University of Waterloo,uwaterloo.ca,62,98,76,183,166,2018
+University of Illinois Chicago,www.uic.edu,63,99,107,139,162,2018
+Iowa State University,www.iastate.edu,64,102,68,206,203,2018
+University of Calgary,www.ucalgary.ca,65,103,102,227,136,2018
+University of Georgia,www.uga.edu,66,106,59,191,240,2018
+University of Nebraska Lincoln,www.unl.edu,67,106,60,146,322,2018
+Rice University,www.rice.edu,68,109,73,28,258,2018
+Oregon State University,oregonstate.edu,69,111,58,239,275,2018
+University of Delaware,www.udel.edu,70,114,41,256,343,2018
+Case Western Reserve University,case.edu,71,115,128,124,171,2018
+(2) Universidad Nacional Autónoma de México,www.unam.mx,72,121,74,288,337,2018
+University at Buffalo,www.buffalo.edu,73,124,82,244,225,2018
+University of California Riverside,www.ucr.edu,74,127,97,90,246,2018
+Florida State University,www.fsu.edu,75,128,77,126,269,2018
+Simon Fraser University,www.sfu.ca,76,128,67,109,305,2018
+University of Tennessee Knoxville,www.utk.edu,77,130,98,201,204,2018
+University of Kentucky,www.uky.edu,78,132,95,265,237,2018
+McMaster University,www.mcmaster.ca,79,134,168,17,158,2018
+Colorado State University,www.colostate.edu,80,135,71,164,288,2018
+University of Miami,www.miami.edu,81,136,120,138,177,2018
+Dartmouth College,home.dartmouth.edu,82,137,80,173,264,2018
+University of Connecticut,uconn.edu,83,139,109,116,220,2018
+University of California Santa Cruz,www.ucsc.edu,84,140,94,114,258,2018
+University of Notre Dame,www.nd.edu,85,142,86,73,302,2018
+University of South Florida,www.usf.edu,86,147,89,228,315,2018
+Georgetown University,www.georgetown.edu,87,149,62,168,363,2018
+Washington State University Pullman,wsu.edu,88,153,65,242,393,2018
+University of Kansas,www.ku.edu,89,158,121,350,210,2018
+University of Maryland Baltimore,www.umaryland.edu,90,159,568,176,23,2018
+Temple University,www.temple.edu,91,160,160,21,233,2018
+University of Oregon,uoregon.edu,92,160,81,18,412,2018
+University of Cincinnati,www.uc.edu,93,162,140,127,219,2018
+Université de Montréal,www.umontreal.ca,94,162,175,101,205,2018
+University of Missouri Columbia,missouri.edu,95,166,91,235,332,2018
+University of New Mexico,www.unm.edu,96,167,123,186,254,2018
+University of Western Ontario / Western University,www.uwo.ca,97,170,180,157,200,2018
+Wayne State University,wayne.edu,98,178,184,129,234,2018
+M D Anderson Cancer Center University of Texas,www.mdanderson.org,99,180,402,52,94,2018
+University of Houston,www.uh.edu,100,182,115,132,362,2018
+Harvard University,www.harvard.edu,1,1,2,1,1,2019
+Stanford University,www.stanford.edu,2,2,3,2,3,2019
+Massachusetts Institute of Technology,web.mit.edu,3,3,1,4,8,2019
+University of Washington,www.washington.edu,4,4,5,55,10,2019
+University of California Berkeley,www.berkeley.edu,5,5,4,3,17,2019
+University of Michigan,umich.edu,6,6,8,10,7,2019
+Columbia University New York,www.columbia.edu,7,8,9,9,14,2019
+Cornell University,www.cornell.edu,8,9,6,18,22,2019
+University of Pennsylvania,www.upenn.edu,9,10,12,12,15,2019
+(2) Johns Hopkins University,www.jhu.edu,10,12,36,44,2,2019
+University of California Los Angeles UCLA,www.ucla.edu,11,13,17,8,13,2019
+Yale University,www.yale.edu,12,14,11,13,20,2019
+(2) Pennsylvania State University,www.psu.edu,13,15,10,50,46,2019
+University of Wisconsin Madison,www.wisc.edu,14,16,14,33,34,2019
+University of Minnesota System,www.umn.edu,15,17,18,20,35,2019
+University of California San Diego,www.ucsd.edu,16,18,29,5,19,2019
+University of Toronto,www.utoronto.ca,17,19,39,24,11,2019
+Princeton University,www.princeton.edu,18,21,7,15,84,2019
+University of Texas Austin,www.utexas.edu,19,22,16,26,54,2019
+New York University,www.nyu.edu,20,23,23,27,39,2019
+University of Chicago,www.uchicago.edu,21,24,21,19,57,2019
+Northwestern University,www.northwestern.edu,22,25,35,17,32,2019
+University of North Carolina Chapel Hill,www.unc.edu,23,26,30,22,42,2019
+University of Illinois Urbana Champaign,illinois.edu,24,27,26,54,55,2019
+University of British Columbia,www.ubc.ca,25,28,44,32,31,2019
+University of Southern California,www.usc.edu,26,29,25,21,59,2019
+University of Florida,www.ufl.edu,27,30,27,38,60,2019
+University of California Irvine,uci.edu,28,31,13,23,100,2019
+University of Maryland College Park,www.umd.edu,29,34,24,40,74,2019
+University of California Davis,www.ucdavis.edu,30,35,38,35,52,2019
+Ohio State University,www.osu.edu,31,36,43,62,43,2019
+Carnegie Mellon University,www.cmu.edu,32,37,20,36,125,2019
+Purdue University,www.purdue.edu,33,38,22,76,94,2019
+Michigan State University,msu.edu,34,39,28,39,96,2019
+University of Pittsburgh,www.pitt.edu,35,40,50,53,56,2019
+Washington University Saint Louis,wustl.edu,36,41,46,29,61,2019
+Boston University,www.bu.edu,37,42,42,25,77,2019
+Rutgers The State University of New Jersey,www.rutgers.edu,38,44,40,57,80,2019
+(2) California Institute of Technology Caltech,www.caltech.edu,39,46,51,37,72,2019
+University of Arizona,www.arizona.edu,40,48,32,65,99,2019
+University of Colorado Boulder,www.colorado.edu,41,49,41,52,88,2019
+University of California San Francisco,www.ucsf.edu,42,50,93,28,25,2019
+Arizona State University,www.asu.edu,43,52,37,31,113,2019
+Georgia Institute of Technology,www.gatech.edu,44,53,54,42,71,2019
+McGill University,www.mcgill.ca,45,56,67,51,58,2019
+University of Virginia,www.virginia.edu,46,59,34,63,127,2019
+Vanderbilt University,www.vanderbilt.edu,47,60,70,41,66,2019
+Texas A&M University,www.tamu.edu,48,61,45,66,114,2019
+University of Utah,www.utah.edu,49,62,56,79,103,2019
+University of Alberta,www.ualberta.ca,50,65,83,68,75,2019
+University of California Santa Barbara,www.ucsb.edu,51,67,49,43,149,2019
+Brown University,www.brown.edu,52,70,59,59,138,2019
+Indiana University Bloomington,www.indiana.edu,53,72,33,99,215,2019
+University of Iowa,uiowa.edu,54,73,65,78,134,2019
+North Carolina State University,www.ncsu.edu,55,75,52,105,175,2019
+Virginia Polytechnic Institute and State University,vt.edu,56,80,58,115,185,2019
+Duke University,duke.edu,57,81,325,14,21,2019
+Tufts University,www.tufts.edu,58,84,48,142,245,2019
+University of Waterloo,uwaterloo.ca,59,85,85,123,168,2019
+University of Delaware,www.udel.edu,60,89,31,129,341,2019
+University of Rochester,www.rochester.edu,61,90,84,87,173,2019
+University of Massachusetts Amherst,www.umass.edu,62,91,73,90,212,2019
+Iowa State University,www.iastate.edu,63,92,71,168,209,2019
+Colorado State University,www.colostate.edu,64,94,66,138,291,2019
+University of Georgia,www.uga.edu,65,95,68,109,243,2019
+University of Calgary,www.ucalgary.ca,66,96,110,104,144,2019
+City University of New York,www.cuny.edu,67,100,60,284,254,2019
+Oregon State University,oregonstate.edu,68,105,61,154,277,2019
+Rice University,www.rice.edu,69,107,76,74,264,2019
+University at Buffalo,www.buffalo.edu,70,107,72,158,231,2019
+Florida State University,www.fsu.edu,71,109,77,119,265,2019
+University of Illinois Chicago,www.uic.edu,72,109,100,137,169,2019
+University of Tennessee Knoxville,www.utk.edu,73,117,89,176,205,2019
+Dartmouth College,home.dartmouth.edu,74,117,78,140,278,2019
+University of Maryland Baltimore,www.umaryland.edu,75,121,345,170,23,2019
+University of Nebraska Lincoln,www.unl.edu,76,126,64,233,314,2019
+University of California Santa Cruz,www.ucsc.edu,77,128,95,91,273,2019
+University of Miami,www.miami.edu,78,130,120,107,198,2019
+McMaster University,www.mcmaster.ca,79,131,157,30,165,2019
+University of California Riverside,www.ucr.edu,80,132,103,85,250,2019
+University of Kentucky,www.uky.edu,81,135,90,181,259,2019
+University of Kansas,www.ku.edu,82,136,106,159,218,2019
+George Washington University,www.gwu.edu,83,136,74,211,283,2019
+Simon Fraser University,www.sfu.ca,84,138,79,173,313,2019
+University of Connecticut,uconn.edu,85,139,111,125,230,2019
+Case Western Reserve University,case.edu,86,140,131,100,190,2019
+Temple University,www.temple.edu,87,141,117,86,235,2019
+Universidad Nacional Autónoma de México,www.unam.mx,88,141,99,195,333,2019
+Georgetown University,www.georgetown.edu,89,145,63,152,384,2019
+University of Notre Dame,www.nd.edu,90,146,86,147,308,2019
+University of South Florida,www.usf.edu,91,151,82,163,353,2019
+George Mason University,www.gmu.edu,92,154,62,187,482,2019
+University of New Mexico,www.unm.edu,93,156,115,177,269,2019
+Washington State University Pullman,wsu.edu,94,158,75,227,396,2019
+Université de Montréal,www.umontreal.ca,95,160,181,127,207,2019
+University of Missouri Columbia,missouri.edu,96,161,94,141,336,2019
+University of Oregon,uoregon.edu,97,169,87,95,444,2019
+University of Cincinnati,www.uc.edu,98,170,150,157,227,2019
+University of Western Ontario / Western University,www.uwo.ca,99,172,182,151,208,2019
+University of Houston,www.uh.edu,100,174,101,128,362,2019
+Harvard University,www.harvard.edu,1,1,2,1,1,2020
+Stanford University,www.stanford.edu,2,2,3,2,3,2020
+Massachusetts Institute of Technology,web.mit.edu,3,3,1,4,10,2020
+University of California Berkeley,www.berkeley.edu,4,4,4,3,18,2020
+University of Washington,www.washington.edu,5,5,5,66,9,2020
+University of Michigan,umich.edu,6,6,9,10,8,2020
+(2) Johns Hopkins University,www.jhu.edu,7,8,22,33,2,2020
+Columbia University New York,www.columbia.edu,8,9,8,6,14,2020
+Cornell University,www.cornell.edu,9,10,6,15,26,2020
+University of Pennsylvania,www.upenn.edu,10,11,12,11,15,2020
+University of California Los Angeles UCLA,www.ucla.edu,11,13,17,8,16,2020
+Yale University,www.yale.edu,12,14,10,14,23,2020
+University of Wisconsin Madison,www.wisc.edu,13,15,15,26,37,2020
+University of California San Diego,www.ucsd.edu,14,16,27,5,21,2020
+University of Minnesota System,www.umn.edu,15,17,16,18,39,2020
+University of Toronto,www.utoronto.ca,16,19,34,21,11,2020
+(2) Pennsylvania State University,www.psu.edu,17,20,11,37,51,2020
+Princeton University,www.princeton.edu,18,21,7,16,90,2020
+University of Texas Austin,www.utexas.edu,19,22,18,28,57,2020
+University of Chicago,www.uchicago.edu,20,23,21,23,60,2020
+New York University,www.nyu.edu,21,24,24,30,42,2020
+Northwestern University,www.northwestern.edu,22,25,32,17,32,2020
+University of North Carolina Chapel Hill,www.unc.edu,23,26,31,25,47,2020
+University of British Columbia,www.ubc.ca,24,27,46,27,34,2020
+University of Illinois Urbana Champaign,illinois.edu,25,28,30,38,58,2020
+University of Southern California,www.usc.edu,26,29,25,19,64,2020
+University of Florida,www.ufl.edu,27,30,29,31,62,2020
+Ohio State University,www.osu.edu,28,31,41,63,41,2020
+University of California Irvine,uci.edu,29,32,14,24,111,2020
+University of Maryland College Park,www.umd.edu,30,33,26,36,80,2020
+(2) California Institute of Technology Caltech,www.caltech.edu,31,34,52,41,45,2020
+Purdue University,www.purdue.edu,32,36,23,73,97,2020
+Carnegie Mellon University,www.cmu.edu,33,37,20,34,141,2020
+Michigan State University,msu.edu,34,38,28,49,100,2020
+Washington University Saint Louis,wustl.edu,35,39,44,29,66,2020
+University of Pittsburgh,www.pitt.edu,36,40,48,52,56,2020
+University of Arizona,www.arizona.edu,37,44,33,59,110,2020
+Rutgers The State University of New Jersey,www.rutgers.edu,38,45,38,47,87,2020
+Boston University,www.bu.edu,39,45,42,39,83,2020
+University of California San Francisco,www.ucsf.edu,40,48,88,22,29,2020
+University of Colorado Boulder,www.colorado.edu,41,49,39,53,94,2020
+Arizona State University,www.asu.edu,42,50,36,35,118,2020
+Texas A&M University,www.tamu.edu,43,55,43,56,116,2020
+Georgia Institute of Technology,www.gatech.edu,44,56,58,45,79,2020
+McGill University,www.mcgill.ca,45,57,67,51,65,2020
+University of Virginia,www.virginia.edu,46,58,37,62,137,2020
+Vanderbilt University,www.vanderbilt.edu,47,59,68,48,71,2020
+University of Utah,www.utah.edu,48,61,50,71,113,2020
+University of Alberta,www.ualberta.ca,49,65,87,64,77,2020
+University of California Santa Barbara,www.ucsb.edu,50,65,53,42,159,2020
+North Carolina State University,www.ncsu.edu,51,70,49,95,183,2020
+Brown University,www.brown.edu,52,70,57,75,151,2020
+University of Iowa,uiowa.edu,53,74,65,76,147,2020
+Indiana University Bloomington,indiana.edu,54,76,40,110,221,2020
+Duke University,duke.edu,55,77,314,13,25,2020
+Virginia Polytechnic Institute and State University,vt.edu,56,77,56,104,192,2020
+University of Waterloo,uwaterloo.ca,57,84,85,106,168,2020
+Tufts University,www.tufts.edu,58,85,51,171,267,2020
+University of Rochester,www.rochester.edu,59,88,82,108,188,2020
+City University of New York,www.cuny.edu,60,89,59,122,259,2020
+Iowa State University,www.iastate.edu,61,91,71,142,219,2020
+University of Massachusetts Amherst,www.umass.edu,62,92,72,101,227,2020
+University of Georgia,www.uga.edu,63,94,66,88,251,2020
+University of Calgary,www.ucalgary.ca,64,99,120,97,146,2020
+Oregon State University,oregonstate.edu,65,101,63,140,278,2020
+University of Maryland Baltimore,www.umaryland.edu,66,102,276,190,27,2020
+University of Delaware,www.udel.edu,67,104,45,105,361,2020
+University of Illinois Chicago,www.uic.edu,68,107,100,126,184,2020
+University at Buffalo,www.buffalo.edu,69,108,78,149,231,2020
+Colorado State University,www.colostate.edu,70,113,60,136,294,2020
+Rice University,www.rice.edu,71,115,75,92,279,2020
+Florida State University,www.fsu.edu,72,116,79,124,262,2020
+University of Nebraska Lincoln,www.unl.edu,73,117,64,213,310,2020
+University of Tennessee Knoxville,www.utk.edu,74,120,95,177,208,2020
+Dartmouth College,home.dartmouth.edu,75,121,73,151,293,2020
+University of California Riverside,www.ucr.edu,76,128,108,85,253,2020
+University of Miami,www.miami.edu,77,130,119,113,206,2020
+University of Kentucky,www.uky.edu,78,132,90,174,271,2020
+George Washington University,www.gwu.edu,79,133,69,208,297,2020
+Simon Fraser University,www.sfu.ca,80,135,70,182,329,2020
+Temple University,www.temple.edu,81,136,101,148,239,2020
+University of Connecticut,uconn.edu,82,137,107,120,242,2020
+University of California Santa Cruz,www.ucsc.edu,83,138,93,111,284,2020
+McMaster University,www.mcmaster.ca,84,141,166,57,169,2020
+(2) Universidad Nacional Autónoma de México,www.unam.mx,85,144,105,168,326,2020
+University of Kansas,www.ku.edu,86,145,118,212,222,2020
+University of South Florida,www.usf.edu,87,146,80,152,366,2020
+Georgetown University,www.georgetown.edu,88,147,61,158,399,2020
+Washington State University Pullman,wsu.edu,89,148,74,186,352,2020
+University of Notre Dame,www.nd.edu,90,150,89,154,323,2020
+Case Western Reserve University,case.edu,91,152,145,96,200,2020
+University of New Mexico,www.unm.edu,92,154,109,194,282,2020
+University of Missouri Columbia,missouri.edu,93,158,94,141,346,2020
+Université de Montréal,www.umontreal.ca,94,162,167,117,223,2020
+University of Alabama Birmingham,www.uab.edu,95,168,201,192,166,2020
+Western University (University of Western Ontario),www.uwo.ca,96,169,179,127,211,2020
+George Mason University,www.gmu.edu,97,173,62,200,502,2020
+University of Cincinnati,www.uc.edu,98,176,150,183,238,2020
+University of Houston,uh.edu,99,177,104,159,372,2020
+University of Oregon,www.uoregon.edu,100,178,84,173,466,2020
